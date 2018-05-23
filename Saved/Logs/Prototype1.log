@@ -510,3 +510,41 @@ LogInit: Object subsystem initialized
 [2018.05.23-18.45.07:618][721]LogSavePackage: Save=237.11ms
 [2018.05.23-18.45.07:618][721]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_BuiltDataD3E07C124350CB5A85493B8B2ACA067E.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset'
 [2018.05.23-18.45.07:622][721]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset
+[2018.05.23-18.48.24:748][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.53.51:021][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.23-18.54.11:182][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.54.12:017][832]LogActorFactory: Actor Factory created Cube
+[2018.05.23-18.54.13:069][928]LogActorFactory: Actor Factory created Cube
+[2018.05.23-18.54.25:312][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.26:240][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.54.27:145][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.29:215][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.29:562][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.30:783][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.31:415][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.32:702][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.32:873][502]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.05.23-18.54.33:966][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.54.35:476][785]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.05.23-18.54.35:789][819]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.05.23-18.54.35:899][830]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube)
+[2018.05.23-18.54.39:699][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.40:041][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.40:114][259]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.05.23-18.54.43:125][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.54.44:172][710]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.05.23-18.54.46:524][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.54.47:748][ 94]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.23-18.54.47:758][ 94]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2018.05.23-18.54.51:477][527]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.05.23-18.54.54:573][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.55.08:267][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.55.15:724][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.23-18.55.22:815][925]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.23-18.55.26:769][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.23-18.55.28:134][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.23-18.55.28:210][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.23-18.55.28:461][434]LogSavePackage: Save=232.18ms
+[2018.05.23-18.55.28:461][434]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto15C4EEFC84B42D993754BEAB73B4F8EBF.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap'
+[2018.05.23-18.55.28:466][434]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap
+[2018.05.23-18.55.28:493][434]LogFileHelpers: Saving map 'LevelProto1' took 0.348
