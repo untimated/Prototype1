@@ -510,3 +510,149 @@ LogInit: Object subsystem initialized
 [2018.05.23-18.45.07:618][721]LogSavePackage: Save=237.11ms
 [2018.05.23-18.45.07:618][721]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_BuiltDataD3E07C124350CB5A85493B8B2ACA067E.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset'
 [2018.05.23-18.45.07:622][721]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset
+[2018.05.23-18.48.24:748][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.53.51:021][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.23-18.54.11:182][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.54.12:017][832]LogActorFactory: Actor Factory created Cube
+[2018.05.23-18.54.13:069][928]LogActorFactory: Actor Factory created Cube
+[2018.05.23-18.54.25:312][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.26:240][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.54.27:145][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.29:215][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.29:562][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.30:783][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.31:415][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.32:702][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.32:873][502]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.05.23-18.54.33:966][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.54.35:476][785]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.05.23-18.54.35:789][819]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.05.23-18.54.35:899][830]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube)
+[2018.05.23-18.54.39:699][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.40:041][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.05.23-18.54.40:114][259]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.05.23-18.54.43:125][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.54.44:172][710]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.05.23-18.54.46:524][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.54.47:748][ 94]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.23-18.54.47:758][ 94]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2018.05.23-18.54.51:477][527]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.05.23-18.54.54:573][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.55.08:267][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.55.15:724][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.23-18.55.22:815][925]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.23-18.55.26:769][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.23-18.55.28:134][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.23-18.55.28:210][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.23-18.55.28:461][434]LogSavePackage: Save=232.18ms
+[2018.05.23-18.55.28:461][434]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto15C4EEFC84B42D993754BEAB73B4F8EBF.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap'
+[2018.05.23-18.55.28:466][434]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap
+[2018.05.23-18.55.28:493][434]LogFileHelpers: Saving map 'LevelProto1' took 0.348
+[2018.05.23-18.58.32:226][770]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2018.05.23-18.58.41:281][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-18.59.26:201][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.23-18.59.27:865][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.23-18.59.27:934][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.23-18.59.28:132][621]LogSavePackage: Save=179.41ms
+[2018.05.23-18.59.28:132][621]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto10535B7C2470AB7556D81678F94930283.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap'
+[2018.05.23-18.59.28:134][621]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap
+[2018.05.23-18.59.28:156][621]LogFileHelpers: Saving map 'LevelProto1' took 0.286
+[2018.05.23-18.59.39:815][930]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.23-19.01.31:572][832]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight8)
+[2018.05.23-19.01.44:164][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-19.01.49:847][491]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight8)
+[2018.05.23-19.01.52:608][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-19.01.52:685][759]MapCheck: New page: Map Check
+[2018.05.23-19.01.52:720][759]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.23-19.01.52:720][759]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.23-19.01.53:008][759]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.05.23-19.01.53:013][759]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PrototypeMaterial, compiling. 
+[2018.05.23-19.01.53:017][759]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.23-19.01.53:017][759]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.23-19.01.53:017][759]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.05.23-19.01.53:024][759]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Head, compiling. 
+[2018.05.23-19.01.53:029][759]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Coat, compiling. 
+[2018.05.23-19.01.53:034][759]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy YellowEmissive, compiling. 
+[2018.05.23-19.01.53:041][759]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.23-19.01.53:041][759]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.23-19.01.53:041][759]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HandleMaterial, compiling. 
+[2018.05.23-19.01.53:048][759]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy phong1, compiling. 
+[2018.05.23-19.01.53:055][759]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BladeMaterial, compiling. 
+[2018.05.23-19.01.53:063][759]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BladeDecorationMaterial, compiling. 
+[2018.05.23-19.01.53:954][759]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.23-19.01.53:954][759]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.23-19.01.53:954][759]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.23-19.01.53:954][759]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.23-19.01.53:954][759]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.23-19.01.53:954][759]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.23-19.01.53:954][759]TextureStreamingBuild: Display: Compiling optional shaders took 0.950 seconds.
+[2018.05.23-19.01.53:983][759]LogLevel: Display: Export Material TexCoord Scales took 0.028 seconds.
+[2018.05.23-19.01.53:997][759]TextureStreamingBuild: Display: Build Texture Streaming took 0.014 seconds.
+[2018.05.23-19.01.54:008][759]LightingResults: New page: Lighting Build - May 24, 2018, 9:01:54 AM
+[2018.05.23-19.01.54:025][759]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.23-19.01.54:057][759]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.23-19.01.54:057][759]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.23-19.01.54:058][759]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.23-19.01.54:058][759]LogSwarmInterface: [TryOpenConnection] Local Process ID is 57704
+[2018.05.23-19.01.58:568][759]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.05.23-19.01.58:569][759]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.23-19.01.58:569][759]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.23-19.01.58:569][759]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.23-19.01.58:569][759]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.23-19.01.58:569][759]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.23-19.01.58:915][759]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.05.23-19.01.58:916][759]MapCheck: New page: LevelProto1 - May 24, 2018, 9:01:58 AM
+[2018.05.23-19.01.58:984][759]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.132ms to complete.
+[2018.05.23-19.01.59:007][759]LogEditorBuildUtils: Build time 0:06
+[2018.05.23-19.02.09:938][198]Job is a success!
+[2018.05.23-19.02.10:204][199]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.168s
+[2018.05.23-19.02.10:204][199]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.05.23-19.02.10:204][199]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb (trimmed 1.4Mb due to 0.010000 MinBrickError)
+[2018.05.23-19.02.10:204][199]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.23-19.02.10:204][199]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2018.05.23-19.02.10:204][199]LogVolumetricLightmapImport:          1: 7.8% covering 11.5% of volume
+[2018.05.23-19.02.10:204][199]LogVolumetricLightmapImport:          2: 91.2% covering 2.1% of volume
+[2018.05.23-19.02.10:607][199]LightingResults: Error: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.05.23-19.02.11:310][199]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.05.23-19.02.11:310][199]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.05.23-19.02.11:310][199]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.05.23-19.02.11:310][199]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.05.23-19.02.11:311][199]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2018.05.23-19.02.11:311][199]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2018.05.23-19.02.11:311][199]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2018.05.23-19.02.11:311][199]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2018.05.23-19.02.11:311][199]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2018.05.23-19.02.11:311][199]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2018.05.23-19.02.11:510][199]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2018.05.23-19.02.11:511][199]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 256X128)
+[2018.05.23-19.02.11:511][199]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X256)
+[2018.05.23-19.02.11:651][199]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2018.05.23-19.02.11:695][199]Lightmass on DESKTOP-E8RK8PF: 12.0 sec total, 207 ms importing, 25 ms setup, 1.53 sec photons, 10.2 sec processing, 0 ms extra exporting [401/401 mappings]. Threads: 1:11 min total, 26.5 sec processing.
+[2018.05.23-19.02.11:771][199]LogStaticLightingSystem: Illumination: 17.7 sec (704 ms encoding lightmaps, 337 ms encoding shadowmaps)
+[2018.05.23-19.02.11:771][199]LogStaticLightingSystem: Lightmap texture memory:  4.6 MB (0.1 MB streaming, 4.5 MB non-streaming), 10 textures
+[2018.05.23-19.02.11:771][199]LogStaticLightingSystem: Shadowmap texture memory: 5.6 MB (0.2 MB streaming, 5.4 MB non-streaming), 4 textures
+[2018.05.23-19.02.12:664][199]DumpUnbuiltLightIteractions
+[2018.05.23-19.02.12:664][199]Lights with unbuilt interactions: 0
+[2018.05.23-19.02.12:664][199]
+[2018.05.23-19.02.12:664][199]Primitives with unbuilt interactions: 0
+[2018.05.23-19.02.12:777][200]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.23-19.02.12:777][200]MapCheck: New page: LevelProto1 - May 24, 2018, 9:02:12 AM
+[2018.05.23-19.02.12:848][200]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.386ms to complete.
+[2018.05.23-19.03.04:964][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-19.03.05:035][446]LogSlate: Window 'Message Log' being destroyed
+[2018.05.23-19.03.05:041][446]LogSlate: Window 'Message Log' being destroyed
+[2018.05.23-19.03.06:032][549]LogSlate: Took 0.004334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.23-19.03.11:974][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sword)
+[2018.05.23-19.03.16:658][472]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.05.23-19.03.16:737][472]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.23-19.03.17:046][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.23-19.03.18:609][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.23-19.03.18:619][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.23-19.03.18:814][665]LogSavePackage: Save=182.50ms
+[2018.05.23-19.03.18:814][665]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto14FC65BB147ED71CCEA0AECA10CD9A37A.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap'
+[2018.05.23-19.03.18:819][665]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap
+[2018.05.23-19.03.18:844][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1_BuiltData" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset" SILENT=true
+[2018.05.23-19.03.19:093][665]LogSavePackage: Save=235.96ms
+[2018.05.23-19.03.19:093][665]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_BuiltData93013ED745C6C30A8086659120E92363.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset'
+[2018.05.23-19.03.19:095][665]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset
+[2018.05.23-19.03.20:353][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
