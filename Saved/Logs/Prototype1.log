@@ -515,3 +515,14 @@ LogInit: Object subsystem initialized
 [2018.05.27-12.05.35:550][445]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_BuiltData6733B9DB4E39DD758562BF85C9F258F0.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset'
 [2018.05.27-12.05.35:550][445]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset
 [2018.05.27-12.06.01:533][299]LogSlate: Took 0.005817 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.27-12.08.01:923][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.27-12.08.11:976][312]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.27-12.08.14:178][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-12.08.16:804][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.27-12.08.16:993][830]LogSavePackage: Save=175.99ms
+[2018.05.27-12.08.16:993][830]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto14F3310A54FB834F34360E1810070B954.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap'
+[2018.05.27-12.08.16:995][830]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap
+[2018.05.27-12.08.17:019][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1_BuiltData" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset" SILENT=true
+[2018.05.27-12.08.17:256][830]LogSavePackage: Save=234.06ms
+[2018.05.27-12.08.17:256][830]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_BuiltData700C0A7D45AE1F5425AE2D8B1C0DC07F.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset'
+[2018.05.27-12.08.17:256][830]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset
