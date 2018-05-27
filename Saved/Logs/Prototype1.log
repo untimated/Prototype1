@@ -656,3 +656,174 @@ LogInit: Object subsystem initialized
 [2018.05.23-19.03.19:093][665]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_BuiltData93013ED745C6C30A8086659120E92363.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset'
 [2018.05.23-19.03.19:095][665]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset
 [2018.05.23-19.03.20:353][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.23-19.27.10:610][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.23-19.59.51:969][  0]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.23-19.59.52:303][  1]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.23-19.59.52:803][  2]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.23-19.59.53:303][  3]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.23-19.59.53:803][  4]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.23-19.59.54:303][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.23-19.59.54:803][  6]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.23-19.59.55:304][  7]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-03.22.26:500][  8]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-03.22.31:451][  9]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-03.22.31:451][  9]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-03.22.31:728][ 10]LogHttp: Warning: 000001E8F7DC1480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.24-03.22.31:728][ 10]LogHttp: Warning: 000001E8F7DC1480: libcurl info message cache 0 (Connection 30 seems to be dead!)
+[2018.05.24-03.22.31:728][ 10]LogHttp: Warning: 000001E8F7DC1480: libcurl info message cache 1 (Closing connection 30)
+[2018.05.24-03.22.31:728][ 10]LogHttp: Warning: 000001E8F7DC1480: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.24-03.22.31:728][ 10]LogHttp: Warning: 000001E8F7DC1480: libcurl info message cache 3 (Closing connection 31)
+[2018.05.24-04.15.52:391][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-04.15.52:483][165]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-04.15.52:516][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-04.15.52:517][165]PIE: New page: PIE session: LevelProto1 (May 24, 2018, 6:15:52 PM)
+[2018.05.24-04.15.52:518][165]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelProto1
+[2018.05.24-04.15.52:585][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067593s)
+[2018.05.24-04.15.52:590][165]LogAIModule: Creating AISystem for world LevelProto1
+[2018.05.24-04.15.52:592][165]LogPlayLevel: PIE: World Init took: (0.005938s)
+[2018.05.24-04.15.52:592][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelProto1.LevelProto1 to /Game/UEDPIE_0_LevelProto1.LevelProto1 (0.074151s)
+[2018.05.24-04.15.52:633][165]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-04.15.52:649][165]LogInit: FAudioDevice initialized.
+[2018.05.24-04.15.52:753][165]LogLoad: Game class is 'RoboSlashGameMode_C'
+[2018.05.24-04.15.52:762][165]LogWorld: Bringing World /Game/UEDPIE_0_LevelProto1.LevelProto1 up for play (max tick rate 0) at 2018.05.24-11.15.52
+[2018.05.24-04.15.52:763][165]LogWorld: Bringing up level for play took: 0.006005
+[2018.05.24-04.15.52:771][165]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0016 seconds. Added 11 classes and 0 folders.
+[2018.05.24-04.15.52:774][165]PIE: Play in editor start time for /Game/UEDPIE_0_LevelProto1 0.985
+[2018.05.24-04.16.29:647][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-04.16.29:705][210]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-04.16.29:721][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-04.16.29:721][210]PIE: New page: PIE session: LevelProto1 (May 24, 2018, 6:16:29 PM)
+[2018.05.24-04.16.29:721][210]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelProto1
+[2018.05.24-04.16.29:759][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038011s)
+[2018.05.24-04.16.29:761][210]LogAIModule: Creating AISystem for world LevelProto1
+[2018.05.24-04.16.29:761][210]LogPlayLevel: PIE: World Init took: (0.001843s)
+[2018.05.24-04.16.29:761][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelProto1.LevelProto1 to /Game/UEDPIE_0_LevelProto1.LevelProto1 (0.040123s)
+[2018.05.24-04.16.29:782][210]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-04.16.29:795][210]LogInit: FAudioDevice initialized.
+[2018.05.24-04.16.29:828][210]LogLoad: Game class is 'RoboSlashGameMode_C'
+[2018.05.24-04.16.29:833][210]LogWorld: Bringing World /Game/UEDPIE_0_LevelProto1.LevelProto1 up for play (max tick rate 0) at 2018.05.24-11.16.29
+[2018.05.24-04.16.29:833][210]LogWorld: Bringing up level for play took: 0.004528
+[2018.05.24-04.16.29:835][210]PIE: Play in editor start time for /Game/UEDPIE_0_LevelProto1 0.046
+[2018.05.24-04.16.39:328][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-04.16.41:025][501]MapCheck: New page: Map Check
+[2018.05.24-04.16.41:061][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-04.16.41:065][501]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.24-04.16.41:067][501]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.24-04.16.41:329][501]LightingResults: New page: Lighting Build - May 24, 2018, 6:16:41 PM
+[2018.05.24-04.16.41:352][501]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.24-04.16.41:372][501]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.24-04.16.41:373][501]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.24-04.16.41:374][501]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.24-04.16.41:374][501]LogSwarmInterface: [TryOpenConnection] Local Process ID is 57704
+[2018.05.24-04.16.45:888][501]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2018.05.24-04.16.45:889][501]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.24-04.16.45:889][501]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.24-04.16.45:889][501]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.24-04.16.45:889][501]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.24-04.16.45:889][501]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.24-04.16.46:257][501]LogEditorBuildUtils: Build time 0:05
+[2018.05.24-04.16.56:927][ 16]Job is a success!
+[2018.05.24-04.16.56:995][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-04.16.57:187][ 18]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.148s
+[2018.05.24-04.16.57:187][ 18]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2018.05.24-04.16.57:187][ 18]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb (trimmed 1.4Mb due to 0.010000 MinBrickError)
+[2018.05.24-04.16.57:187][ 18]LogVolumetricLightmapImport:      Bricks at Level
+[2018.05.24-04.16.57:187][ 18]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2018.05.24-04.16.57:187][ 18]LogVolumetricLightmapImport:          1: 7.8% covering 11.5% of volume
+[2018.05.24-04.16.57:187][ 18]LogVolumetricLightmapImport:          2: 91.2% covering 2.1% of volume
+[2018.05.24-04.16.57:610][ 18]LightingResults: Error: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.05.24-04.16.58:330][ 18]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.05.24-04.16.58:331][ 18]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.05.24-04.16.58:331][ 18]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.05.24-04.16.58:331][ 18]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.05.24-04.16.58:331][ 18]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2018.05.24-04.16.58:331][ 18]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2018.05.24-04.16.58:331][ 18]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2018.05.24-04.16.58:331][ 18]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2018.05.24-04.16.58:331][ 18]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.05.24-04.16.58:331][ 18]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.05.24-04.16.58:531][ 18]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2018.05.24-04.16.58:531][ 18]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 256X128)
+[2018.05.24-04.16.58:531][ 18]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 256X256)
+[2018.05.24-04.16.58:638][ 18]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X1024)
+[2018.05.24-04.16.58:682][ 18]Lightmass on DESKTOP-E8RK8PF: 11.8 sec total, 197 ms importing, 21 ms setup, 1.50 sec photons, 10.0 sec processing, 0 ms extra exporting [405/405 mappings]. Threads: 1:10 min total, 25.6 sec processing.
+[2018.05.24-04.16.58:799][ 18]LogStaticLightingSystem: Illumination: 17.4 sec (720 ms encoding lightmaps, 304 ms encoding shadowmaps)
+[2018.05.24-04.16.58:799][ 18]LogStaticLightingSystem: Lightmap texture memory:  4.6 MB (0.1 MB streaming, 4.5 MB non-streaming), 10 textures
+[2018.05.24-04.16.58:799][ 18]LogStaticLightingSystem: Shadowmap texture memory: 5.6 MB (0.2 MB streaming, 5.4 MB non-streaming), 4 textures
+[2018.05.24-04.16.58:937][ 18]DumpUnbuiltLightIteractions
+[2018.05.24-04.16.58:937][ 18]Lights with unbuilt interactions: 0
+[2018.05.24-04.16.58:937][ 18]
+[2018.05.24-04.16.58:937][ 18]Primitives with unbuilt interactions: 0
+[2018.05.24-04.16.59:066][ 19]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.24-04.16.59:067][ 19]MapCheck: New page: LevelProto1 - May 24, 2018, 6:16:59 PM
+[2018.05.24-04.16.59:151][ 19]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 84.304ms to complete.
+[2018.05.24-04.17.01:236][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-04.17.01:346][266]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-04.17.01:361][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-04.17.01:361][266]PIE: New page: PIE session: LevelProto1 (May 24, 2018, 6:17:01 PM)
+[2018.05.24-04.17.01:361][266]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelProto1
+[2018.05.24-04.17.01:388][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027061s)
+[2018.05.24-04.17.01:389][266]LogAIModule: Creating AISystem for world LevelProto1
+[2018.05.24-04.17.01:390][266]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2018.05.24-04.17.01:390][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelProto1.LevelProto1 to /Game/UEDPIE_0_LevelProto1.LevelProto1 (0.028674s)
+[2018.05.24-04.17.01:408][266]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-04.17.01:421][266]LogInit: FAudioDevice initialized.
+[2018.05.24-04.17.01:455][266]LogLoad: Game class is 'RoboSlashGameMode_C'
+[2018.05.24-04.17.01:460][266]LogWorld: Bringing World /Game/UEDPIE_0_LevelProto1.LevelProto1 up for play (max tick rate 0) at 2018.05.24-11.17.01
+[2018.05.24-04.17.01:460][266]LogWorld: Bringing up level for play took: 0.005013
+[2018.05.24-04.17.01:462][266]PIE: Play in editor start time for /Game/UEDPIE_0_LevelProto1 -0.327
+[2018.05.24-04.17.53:757][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-04.17.53:833][465]LogSlate: Window 'Message Log' being destroyed
+[2018.05.24-04.17.53:841][465]LogSlate: Window 'Message Log' being destroyed
+[2018.05.24-04.18.17:906][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.24-04.18.18:093][655]LogSavePackage: Save=177.27ms
+[2018.05.24-04.18.18:093][655]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_Auto23DC79F8842377D18B93AF5BBC31ABF7B.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto2.umap'
+[2018.05.24-04.18.18:094][655]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto2.umap
+[2018.05.24-04.18.18:099][655]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.203
+[2018.05.24-04.18.18:099][655]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.203
+[2018.05.24-04.18.18:100][655]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelProto1_BuiltData] ([1] browsable assets)...
+[2018.05.24-04.18.18:100][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelProto1_BuiltData]
+[2018.05.24-04.18.18:100][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1_BuiltData" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_BuiltData_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.05.24-04.18.18:150][655]LogSavePackage: Save=36.36ms
+[2018.05.24-04.18.18:150][655]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_BuiltData_Auto28CBE669342409F7C64C1B9A3F6825967.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_BuiltData_Auto2.uasset'
+[2018.05.24-04.18.18:150][655]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_BuiltData_Auto2.uasset
+[2018.05.24-04.18.18:151][655]LogFileHelpers: Auto-saving content packages took 0.051
+[2018.05.24-04.19.33:433][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-15.48.01:885][921]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-15.48.02:218][922]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-15.48.02:719][923]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-15.48.03:219][924]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-15.48.03:720][925]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-15.48.04:220][926]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-15.48.04:720][927]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-15.48.05:220][928]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-15.48.05:720][929]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-15.48.06:220][930]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-22.10.27:503][931]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-22.10.32:998][932]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-22.10.32:999][932]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-22.10.33:140][933]LogHttp: Warning: 000001E915212680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.24-22.10.33:141][933]LogHttp: Warning: 000001E915212680: libcurl info message cache 0 (Connection 367 seems to be dead!)
+[2018.05.24-22.10.33:141][933]LogHttp: Warning: 000001E915212680: libcurl info message cache 1 (Closing connection 367)
+[2018.05.24-22.10.33:141][933]LogHttp: Warning: 000001E915212680: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.24-22.10.33:141][933]LogHttp: Warning: 000001E915212680: libcurl info message cache 3 (Closing connection 368)
+[2018.05.24-22.51.05:384][229]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-22.51.05:718][230]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-22.51.06:218][231]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-22.51.06:718][232]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-22.51.07:219][233]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-22.51.07:719][234]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-22.51.08:219][235]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-22.51.08:719][236]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-22.51.09:219][237]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.24-22.51.09:719][238]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.26-12.30.46:500][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.26-12.30.47:088][240]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.26-12.30.47:528][241]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.26-12.30.47:533][241]LogHttp: Warning: 000001E915212E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.26-12.30.47:533][241]LogHttp: Warning: 000001E915212E00: libcurl info message cache 0 (Connection 388 seems to be dead!)
+[2018.05.26-12.30.47:534][241]LogHttp: Warning: 000001E915212E00: libcurl info message cache 1 (Closing connection 388)
+[2018.05.26-12.30.47:534][241]LogHttp: Warning: 000001E915212E00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.26-12.30.47:534][241]LogHttp: Warning: 000001E915212E00: libcurl info message cache 3 (Closing connection 389)
+[2018.05.26-12.30.48:010][242]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.26-12.30.49:258][243]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
