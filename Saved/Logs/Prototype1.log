@@ -526,3 +526,103 @@ LogInit: Object subsystem initialized
 [2018.05.27-12.08.17:256][830]LogSavePackage: Save=234.06ms
 [2018.05.27-12.08.17:256][830]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_BuiltData700C0A7D45AE1F5425AE2D8B1C0DC07F.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset'
 [2018.05.27-12.08.17:256][830]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset
+[2018.05.27-14.52.43:719][ 95]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Michael/Project/Game/ProjectOne/Prototype1/Import/MC_Revision/MC_Backward.fbx)
+[2018.05.27-14.52.43:745][ 95]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.05.27-14.52.43:745][ 95]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.05.27-14.52.43:745][ 95]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.05.27-14.52.43:745][ 95]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.05.27-14.52.43:745][ 95]LogFbx: ItemName: Material, ItemCount : 2
+[2018.05.27-14.52.43:745][ 95]LogFbx: ItemName: Texture, ItemCount : 2
+[2018.05.27-14.52.43:745][ 95]LogFbx: ItemName: Model, ItemCount : 82
+[2018.05.27-14.52.43:745][ 95]LogFbx: ItemName: NodeAttribute, ItemCount : 81
+[2018.05.27-14.52.43:745][ 95]LogFbx: ItemName: AnimationCurveNode, ItemCount : 225
+[2018.05.27-14.52.43:745][ 95]LogFbx: ItemName: AnimationCurve, ItemCount : 345
+[2018.05.27-14.52.43:745][ 95]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.05.27-14.52.43:745][ 95]LogFbx: ItemName: Deformer, ItemCount : 21
+[2018.05.27-14.52.43:745][ 95]LogFbx: ItemName: Video, ItemCount : 2
+[2018.05.27-14.52.43:753][ 95]LogFbx: Loading FBX Scene from D:/Michael/Project/Game/ProjectOne/Prototype1/Import/MC_Revision/MC_Backward.fbx
+[2018.05.27-14.52.43:798][ 95]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.27-14.52.56:360][ 95]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.05.27-14.52.56:400][ 95]LogFbx: Loading FBX Scene from D:/Michael/Project/Game/ProjectOne/Prototype1/Import/MC_Revision/MC_Backward.fbx
+[2018.05.27-14.52.56:443][ 95]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.27-14.52.56:448][ 95]LogFbx: Warning: Triangulating static mesh MC
+[2018.05.27-14.52.56:525][ 95]LogStaticMesh: Building static mesh MC_Backward...
+[2018.05.27-14.52.56:560][ 95]LogStaticMesh: Built static mesh [0.04s] /Game/Asset/MainCharacter/Animation/MC_Backward.MC_Backward
+[2018.05.27-14.52.59:699][378]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.012
+[2018.05.27-14.52.59:701][378]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/MainCharacter/Animation/MC_Backward] ([1] browsable assets)...
+[2018.05.27-14.52.59:714][378]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Asset/MainCharacter/Animation/MC_Backward.MC_Backward]
+[2018.05.27-14.52.59:714][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/MainCharacter/Animation/MC_Backward]
+[2018.05.27-14.52.59:732][378]LogSavePackage: Save=16.56ms
+[2018.05.27-14.52.59:733][378]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/MC_Backward_Auto1FBAA36754AF520F7FA7787B20D7B4052.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/MainCharacter/Animation/MC_Backward_Auto1.uasset'
+[2018.05.27-14.52.59:733][378]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/MainCharacter/Animation/MC_Backward_Auto1.uasset
+[2018.05.27-14.52.59:733][378]LogFileHelpers: Auto-saving content packages took 0.033
+[2018.05.27-14.53.07:980][983]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.27-14.53.13:669][226]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Michael/Project/Game/ProjectOne/Prototype1/Import/MC_Revision/MC_Backward.fbx)
+[2018.05.27-14.53.13:676][226]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.05.27-14.53.13:676][226]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.05.27-14.53.13:676][226]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.05.27-14.53.13:676][226]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.05.27-14.53.13:676][226]LogFbx: ItemName: Material, ItemCount : 2
+[2018.05.27-14.53.13:676][226]LogFbx: ItemName: Texture, ItemCount : 2
+[2018.05.27-14.53.13:676][226]LogFbx: ItemName: Model, ItemCount : 82
+[2018.05.27-14.53.13:676][226]LogFbx: ItemName: NodeAttribute, ItemCount : 81
+[2018.05.27-14.53.13:676][226]LogFbx: ItemName: AnimationCurveNode, ItemCount : 225
+[2018.05.27-14.53.13:676][226]LogFbx: ItemName: AnimationCurve, ItemCount : 345
+[2018.05.27-14.53.13:676][226]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.05.27-14.53.13:676][226]LogFbx: ItemName: Deformer, ItemCount : 21
+[2018.05.27-14.53.13:676][226]LogFbx: ItemName: Video, ItemCount : 2
+[2018.05.27-14.53.13:681][226]LogFbx: Loading FBX Scene from D:/Michael/Project/Game/ProjectOne/Prototype1/Import/MC_Revision/MC_Backward.fbx
+[2018.05.27-14.53.13:722][226]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.27-14.53.28:796][226]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.05.27-14.53.28:829][226]LogFbx: Loading FBX Scene from D:/Michael/Project/Game/ProjectOne/Prototype1/Import/MC_Revision/MC_Backward.fbx
+[2018.05.27-14.53.28:872][226]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.27-14.53.28:873][226]LogFbx: =================================================
+[2018.05.27-14.53.28:873][226]LogFbx: Dumping Node START [MC] 
+[2018.05.27-14.53.28:873][226]LogFbx: 	Total Deformer Count 883945384.
+[2018.05.27-14.53.28:873][226]LogFbx: 		[Node 1]  (Type Skin).
+[2018.05.27-14.53.28:873][226]LogFbx: =================================================
+[2018.05.27-14.53.28:873][226]LogFbx: 	Attribute () Type (4).
+[2018.05.27-14.53.28:873][226]LogFbx: 		[Node Attribute Child 1] MC (Type Mesh).
+[2018.05.27-14.53.28:873][226]LogFbx: Dumping Node END [MC]
+[2018.05.27-14.53.28:873][226]LogFbx: =================================================
+[2018.05.27-14.53.28:873][226]LogFbx: Dumping Node START [MC] 
+[2018.05.27-14.53.28:873][226]LogFbx: 	Total Deformer Count 883945384.
+[2018.05.27-14.53.28:873][226]LogFbx: 		[Node 1]  (Type Skin).
+[2018.05.27-14.53.28:873][226]LogFbx: =================================================
+[2018.05.27-14.53.28:873][226]LogFbx: 	Attribute () Type (4).
+[2018.05.27-14.53.28:874][226]LogFbx: 		[Node Attribute Child 1] MC (Type Mesh).
+[2018.05.27-14.53.28:874][226]LogFbx: Dumping Node END [MC]
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(0) MainCharacterRig_Reference
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(1) MainCharacterRig_Hips
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(2) MainCharacterRig_LeftUpLeg
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(3) MainCharacterRig_LeftLeg
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(4) MainCharacterRig_LeftFoot
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(5) MainCharacterRig_LeftToeBase
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(6) MainCharacterRig_RightUpLeg
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(7) MainCharacterRig_RightLeg
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(8) MainCharacterRig_RightFoot
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(9) MainCharacterRig_RightToeBase
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(10) MainCharacterRig_Spine
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(11) MainCharacterRig_LeftShoulder
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(12) MainCharacterRig_LeftArm
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(13) MainCharacterRig_LeftForeArm
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(14) MainCharacterRig_LeftHand
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(15) MainCharacterRig_RightShoulder
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(16) MainCharacterRig_RightArm
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(17) MainCharacterRig_RightForeArm
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(18) MainCharacterRig_RightHand
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(19) MainCharacterRig_Neck
+[2018.05.27-14.53.28:875][226]LogFbx: SortedLinks :(20) MainCharacterRig_Head
+[2018.05.27-14.53.28:876][226]LogFbx: Parsing AnimStack Take 001
+[2018.05.27-14.53.28:879][226]LogLinker: Can't find file '/Game/Asset/MainCharacter/Animation/MC_Backward'
+[2018.05.27-14.53.28:879][226]LogLinker: Can't find file '/Game/Asset/MainCharacter/Animation/MC_Backward'
+[2018.05.27-14.53.28:911][226]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Asset/MainCharacter/Animation/MC_Backward.MC_Backward
+[2018.05.27-14.53.28:912][226]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.MC_Backward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.27-14.53.30:259][341]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.05.27-14.53.30:608][341]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.05.27-14.53.30:613][341]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2018.05.27-14.53.30:710][341]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.05.27-14.53.31:173][341]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.05.27-14.53.31:188][341]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.27-14.53.34:730][519]LogSlate: Window 'MC_Backward*' being destroyed
+[2018.05.27-14.53.34:737][519]LogSlate: Window 'MC_Backward*' being destroyed
