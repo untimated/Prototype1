@@ -11543,3 +11543,9 @@ LogInit: Object subsystem initialized
 [2018.05.29-09.42.34:212][311]LogSlate: Window 'TestParticleSystem_GPU' being destroyed
 [2018.05.29-09.42.34:216][311]LogSlate: Window 'TestParticleSystem_GPU' being destroyed
 [2018.05.29-09.42.34:216][311]LogCascade: Quitting Cascade. FXSystem=0x0000027827D92520
+[2018.05.29-09.44.50:364][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.29-09.44.50:580][183]LogSavePackage: Save=204.66ms
+[2018.05.29-09.44.50:580][183]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_Auto662CD65FE4E5553B99C91208AB810A030.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto6.umap'
+[2018.05.29-09.44.50:581][183]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto6.umap
+[2018.05.29-09.44.50:583][183]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.234
+[2018.05.29-09.44.50:583][183]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.234
