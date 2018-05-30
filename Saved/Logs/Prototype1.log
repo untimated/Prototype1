@@ -11549,3 +11549,950 @@ LogInit: Object subsystem initialized
 [2018.05.29-09.44.50:581][183]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto6.umap
 [2018.05.29-09.44.50:583][183]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.234
 [2018.05.29-09.44.50:583][183]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.234
+[2018.05.29-09.48.17:310][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-09.48.21:504][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-09.48.24:194][769]LogEditorViewport: Clicking on Actor (LMB): Emitter (TestParticleSystem_GPU)
+[2018.05.29-09.48.46:931][209]LogEditorViewport: Clicking on Actor (LMB): Emitter (TestParticleSystem_GPU)
+[2018.05.29-09.48.56:640][295]Cmd: TRANSACTION UNDO
+[2018.05.29-09.48.56:640][295]LogEditorTransaction: Undo Scale Actors
+[2018.05.29-09.48.56:814][308]Cmd: TRANSACTION UNDO
+[2018.05.29-09.48.56:814][308]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.29-09.48.56:998][314]Cmd: TRANSACTION UNDO
+[2018.05.29-09.48.56:999][314]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.29-09.48.57:402][346]Cmd: TRANSACTION UNDO
+[2018.05.29-09.48.57:402][346]LogEditorTransaction: Undo Scale Actors
+[2018.05.29-09.48.57:576][363]Cmd: TRANSACTION UNDO
+[2018.05.29-09.48.57:576][363]LogEditorTransaction: Undo Scale Actors
+[2018.05.29-09.48.57:740][379]Cmd: TRANSACTION UNDO
+[2018.05.29-09.48.57:740][379]LogEditorTransaction: Undo Move Actors
+[2018.05.29-09.48.57:873][391]Cmd: TRANSACTION UNDO
+[2018.05.29-09.48.57:873][391]LogEditorTransaction: Undo Scale Actors
+[2018.05.29-09.49.00:726][700]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.00:726][700]LogEditorTransaction: Undo Scale Actors
+[2018.05.29-09.49.00:917][720]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.00:917][720]LogEditorTransaction: Undo Scale Actors
+[2018.05.29-09.49.01:324][764]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.01:324][764]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.29-09.49.01:557][779]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.01:558][779]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.29-09.49.01:959][814]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.01:959][814]LogEditorTransaction: Undo Select Brush Surface
+[2018.05.29-09.49.04:162][ 36]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.04:162][ 36]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.29-09.49.04:651][ 93]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.04:651][ 93]LogEditorTransaction: Undo Edit Z
+[2018.05.29-09.49.04:826][112]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.04:826][112]LogEditorTransaction: Undo Edit Y
+[2018.05.29-09.49.06:666][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-09.49.11:731][888]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.11:731][888]LogEditorTransaction: Undo Edit X
+[2018.05.29-09.49.11:918][903]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.11:918][903]LogEditorTransaction: Undo Edit Y
+[2018.05.29-09.49.12:090][915]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.12:091][915]LogEditorTransaction: Undo Edit Z
+[2018.05.29-09.49.12:284][931]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.12:284][931]LogEditorTransaction: Undo Edit Z
+[2018.05.29-09.49.12:484][952]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.12:485][952]LogEditorTransaction: Undo Edit Vector Field
+[2018.05.29-09.49.12:849][991]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.12:849][991]LogEditorTransaction: Undo Edit Intensity
+[2018.05.29-09.49.13:285][ 39]Cmd: TRANSACTION UNDO
+[2018.05.29-09.49.13:285][ 39]LogEditorTransaction: Undo Edit Vector Field
+[2018.05.29-09.49.15:793][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-09.49.18:741][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-09.49.25:300][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-09.49.29:672][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-09.49.33:180][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-09.49.34:452][906]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.49.34:907][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-09.49.46:591][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-09.49.47:350][719]LogSlate: Window 'TestParticleSystem_GPU*' being destroyed
+[2018.05.29-09.49.50:443][  1]LogSlate: Window 'TestParticleSystem_GPU*' being destroyed
+[2018.05.29-09.49.51:323][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/TestParticleSystem_GPU" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/TestParticleSystem_GPU.uasset" SILENT=true
+[2018.05.29-09.49.51:342][ 72]LogSavePackage: Save=11.11ms
+[2018.05.29-09.49.51:342][ 72]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/TestParticleSystem_GPUB681097F4DCE2576F9F4CE81BFF7C0E1.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/TestParticleSystem_GPU.uasset'
+[2018.05.29-09.49.51:343][ 72]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/TestParticleSystem_GPU.uasset
+[2018.05.29-09.50.05:870][588]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.05:945][596]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.05:966][598]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.05:997][601]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.06:027][604]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.06:038][605]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.06:050][606]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.06:061][607]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.06:084][609]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.06:115][612]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.06:136][614]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.06:185][619]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.06:224][623]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.06:256][626]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.06:342][635]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:125][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-09.50.09:192][929]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:204][930]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:205][930]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:216][931]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:228][932]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:229][932]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:240][933]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:252][934]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:253][934]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:264][935]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:276][936]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:276][936]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:288][937]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:300][938]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.09:555][965]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.28:185][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-09.50.28:319][346]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.28:334][347]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.28:353][348]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.28:353][348]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.50.28:764][374]LogParticles: Warning: MaxCount = 21023 for Emitter ParticleSpriteEmitter_0 (/Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU)
+[2018.05.29-09.51.11:956][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-09.51.12:058][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/TestParticleSystem_GPU" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/TestParticleSystem_GPU.uasset" SILENT=true
+[2018.05.29-09.51.12:073][609]LogSavePackage: Save=11.96ms
+[2018.05.29-09.51.12:073][609]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/TestParticleSystem_GPU2410B1C84BD0AD6E57CAF08CBBFCA96A.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/TestParticleSystem_GPU.uasset'
+[2018.05.29-09.51.12:075][609]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/TestParticleSystem_GPU.uasset
+[2018.05.29-09.52.08:024][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-09.52.08:115][711]LogSlate: Window 'TestParticleSystem_GPU' being destroyed
+[2018.05.29-09.52.08:127][711]LogSlate: Window 'TestParticleSystem_GPU' being destroyed
+[2018.05.29-09.52.08:127][711]LogCascade: Quitting Cascade. FXSystem=0x00000277B8D3F880
+[2018.05.29-09.52.15:214][429]LogEditorViewport: Clicking on Actor (LMB): Emitter (TestParticleSystem_GPU)
+[2018.05.29-09.54.51:114][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.29-09.54.51:301][633]LogSavePackage: Save=178.21ms
+[2018.05.29-09.54.51:301][633]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_Auto7ED12AA5D479832AD38DE4DB93B8B046A.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto7.umap'
+[2018.05.29-09.54.51:302][633]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto7.umap
+[2018.05.29-09.54.51:305][633]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.202
+[2018.05.29-09.54.51:305][633]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.202
+[2018.05.29-13.27.01:530][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-13.27.10:249][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-13.27.28:283][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-13.27.28:357][771]LogSlate: Window 'TestParticleSystem_GPU' being destroyed
+[2018.05.29-13.27.28:363][771]LogSlate: Window 'TestParticleSystem_GPU' being destroyed
+[2018.05.29-13.27.28:363][771]LogCascade: Quitting Cascade. FXSystem=0x000002782C11F920
+[2018.05.29-14.14.10:177][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.29-14.42.19:633][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-14.42.36:661][756]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.42.36:784][756]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.42.36:794][756]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.42.36:804][756]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.29-14.42.36:804][756]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.29-14.42.36:804][756]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.29-14.42.36:804][756]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.29-14.42.37:428][776]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.29-14.42.37:498][779]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.29-14.42.37:525][780]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.29-14.42.37:526][780]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.29-14.42.37:643][785]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.42.37:713][788]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.42.37:740][789]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.42.37:975][798]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.42.38:002][799]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.42.38:064][802]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.42.38:177][807]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.42.38:203][808]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.42.38:541][824]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.05.29-14.42.38:541][824]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.05.29-14.42.38:542][824]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.05.29-14.42.38:542][824]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.29-14.42.48:066][321]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.42.48:134][322]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.29-14.42.48:134][322]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.29-14.42.48:134][322]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.29-14.42.48:134][322]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.29-14.42.48:287][328]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.29-14.42.48:312][329]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.29-14.42.48:312][329]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.29-14.42.48:332][330]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.29-14.42.48:460][336]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.42.48:482][337]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.42.48:508][338]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.42.48:701][346]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.42.48:726][347]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.42.48:879][354]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.42.48:930][356]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.42.48:973][358]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.42.49:302][373]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.05.29-14.42.49:302][373]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.05.29-14.42.49:302][373]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.05.29-14.42.49:302][373]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.29-14.43.05:738][302]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.43.05:746][302]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.29-14.43.05:746][302]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.29-14.43.05:746][302]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.29-14.43.05:746][302]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.29-14.43.05:962][309]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.29-14.43.05:988][310]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.29-14.43.05:988][310]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.29-14.43.06:008][311]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.29-14.43.06:150][317]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.43.06:179][318]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.43.06:179][318]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.43.06:386][326]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.43.06:387][326]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.43.06:552][333]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.43.06:602][335]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.43.06:602][335]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.43.06:751][341]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.43.06:774][341]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.43.06:786][341]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.43.06:876][342]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.43.06:876][342]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.43.07:083][351]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.05.29-14.43.07:083][351]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.05.29-14.43.07:083][351]MaterialEditorStats: Texture samplers: 0/16
+[2018.05.29-14.43.08:589][453]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.43.08:617][453]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.43.08:617][453]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.43.08:844][464]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.05.29-14.43.08:844][464]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.05.29-14.43.08:844][464]MaterialEditorStats: Texture samplers: 0/16
+[2018.05.29-14.43.10:713][592]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.43.10:719][592]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.43.10:725][592]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.43.10:774][593]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.43.10:774][593]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.43.10:774][593]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.43.10:774][593]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.43.10:899][598]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.43.10:920][599]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.43.10:943][600]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.43.10:964][601]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.43.11:483][624]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.43.11:483][624]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.43.11:483][624]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.43.51:596][792]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.013
+[2018.05.29-14.43.51:597][792]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/VFX/BeamMaterialParticle] ([1] browsable assets)...
+[2018.05.29-14.43.51:624][792]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Asset/VFX/BeamMaterialParticle.BeamMaterialParticle]
+[2018.05.29-14.43.51:624][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/VFX/BeamMaterialParticle]
+[2018.05.29-14.43.51:642][792]LogSavePackage: Save=16.56ms
+[2018.05.29-14.43.51:642][792]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/BeamMaterialParticle_Auto81D93CA4941FA746F6015258E1BC3EE61.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/BeamMaterialParticle_Auto8.uasset'
+[2018.05.29-14.43.51:643][792]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/BeamMaterialParticle_Auto8.uasset
+[2018.05.29-14.43.51:643][792]LogFileHelpers: Auto-saving content packages took 0.047
+[2018.05.29-14.44.22:185][693]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2018.05.29-14.44.22:206][695]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.44.22:206][695]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.44.38:788][824]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.44.38:807][824]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.44.38:807][824]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.44.38:807][824]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.44.38:807][824]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.44.38:820][824]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2018.05.29-14.44.38:824][824]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.44.38:862][824]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2018.05.29-14.44.38:951][826]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.29-14.44.38:951][826]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.29-14.44.39:093][833]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.44.39:094][833]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.44.39:272][842]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.44.39:295][843]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.44.39:378][847]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.44.39:400][848]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.44.39:615][856]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.44.39:615][856]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.44.40:007][876]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.44.40:007][876]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.44.40:007][876]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.44.41:534][981]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2018.05.29-14.44.41:555][983]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.44.41:555][983]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.44.49:106][500]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.44.49:115][500]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.44.49:115][500]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.44.49:115][500]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.44.49:115][500]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.44.49:115][500]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2018.05.29-14.44.49:144][500]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.44.49:273][505]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.29-14.44.49:294][506]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.29-14.44.49:336][508]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.44.49:336][508]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.44.49:518][515]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.44.49:518][515]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.44.49:540][516]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.44.49:604][519]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.44.49:698][523]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.44.49:724][524]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.44.50:253][553]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.44.50:254][553]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.44.50:254][553]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.44.51:520][642]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.44.51:529][642]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.44.51:529][642]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.44.51:529][642]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.44.51:529][642]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.44.51:532][642]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2018.05.29-14.44.51:560][642]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.44.51:686][647]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.29-14.44.51:686][647]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.29-14.44.51:746][650]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.44.51:746][650]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.44.51:916][656]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.44.51:916][656]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.44.51:959][658]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.44.51:985][659]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.44.52:106][664]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.44.52:132][665]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.44.52:194][667]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.44.52:208][667]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2018.05.29-14.44.52:235][667]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.29-14.44.52:237][667]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.44.52:274][668]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.29-14.44.52:389][673]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.29-14.44.52:411][674]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.44.52:565][680]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.44.52:585][681]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.44.52:647][684]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.44.52:720][687]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.44.52:744][688]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.44.52:767][689]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.44.52:808][691]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.44.53:332][717]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.44.53:332][717]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.44.53:332][717]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.44.58:751][ 87]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.44.58:757][ 87]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.44.58:766][ 87]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.44.58:766][ 87]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.44.58:766][ 87]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.44.58:767][ 87]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.44.58:792][ 87]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2018.05.29-14.44.58:925][ 90]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.44.58:944][ 91]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.44.58:986][ 93]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.44.58:987][ 93]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.44.59:243][103]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.44.59:243][103]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.44.59:590][121]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.44.59:590][121]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.44.59:590][121]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.45.00:996][216]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.05.29-14.45.01:001][217]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.45.01:001][217]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.45.57:719][533]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.45.57:739][533]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.45.57:739][533]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.45.57:739][533]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.45.57:739][533]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.45.57:752][533]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.05.29-14.45.57:755][533]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.45.57:794][533]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_0, compiling. 
+[2018.05.29-14.45.58:286][557]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.29-14.45.58:306][558]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.29-14.45.58:329][559]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.29-14.45.58:349][560]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.29-14.45.58:501][566]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.45.58:527][567]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.45.58:554][568]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.45.58:643][572]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.45.58:707][575]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.45.58:733][576]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.45.58:905][582]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.45.58:982][585]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.45.59:367][604]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.45.59:367][604]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.45.59:367][604]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.46.05:364][ 16]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.46.05:371][ 16]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.46.05:390][ 17]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.46.05:390][ 17]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.46.05:390][ 17]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.46.05:390][ 17]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.46.05:556][ 24]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.46.05:579][ 25]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.46.05:619][ 27]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.46.05:642][ 28]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.46.06:185][ 55]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.46.06:185][ 55]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.46.06:185][ 55]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.46.06:449][ 73]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.46.06:470][ 74]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.46.06:470][ 74]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.46.06:470][ 74]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.46.06:470][ 74]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.46.06:650][ 80]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.46.06:650][ 80]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.46.06:674][ 81]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.46.06:693][ 82]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.46.07:250][108]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.46.07:250][108]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.46.07:250][108]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.46.10:925][343]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.46.10:933][343]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.46.10:933][343]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.46.10:933][343]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.46.10:933][343]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.46.10:935][343]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.05.29-14.46.11:113][349]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.46.11:113][349]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.46.11:157][351]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.46.11:157][351]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.46.11:456][362]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.46.11:456][362]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.46.11:817][379]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.46.11:817][379]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.46.11:817][379]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.46.20:547][688]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.46.20:554][688]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.46.20:574][689]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.46.20:574][689]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.46.20:574][689]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.46.20:574][689]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.46.20:737][696]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.46.20:737][696]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.46.20:778][698]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.46.20:778][698]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.46.21:330][725]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.46.21:330][725]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.46.21:330][725]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.46.21:789][756]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.46.21:808][757]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.46.21:809][757]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.46.21:809][757]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.46.21:809][757]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.46.21:966][762]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.46.21:966][762]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.46.22:012][764]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.46.22:012][764]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.46.22:546][789]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.46.22:546][789]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.46.22:546][789]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.46.27:086][ 98]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.05.29-14.46.27:100][ 98]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.46.27:100][ 98]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.47.37:514][782]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.47.37:518][782]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.47.37:518][782]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.47.37:518][782]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.47.37:518][782]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.47.37:520][782]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.47.37:555][782]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2018.05.29-14.47.38:100][808]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.29-14.47.38:101][808]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.29-14.47.38:122][809]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.47.38:146][810]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.47.38:270][815]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.47.38:270][815]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.47.38:329][818]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.47.38:330][818]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.47.38:615][829]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.47.38:636][830]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.47.38:978][847]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.47.38:978][847]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.47.38:978][847]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.47.41:096][987]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.47.41:102][987]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.47.41:122][988]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.47.41:122][988]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.47.41:122][988]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.47.41:122][988]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.47.41:285][995]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.47.41:304][996]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.47.41:325][997]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.47.41:348][998]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.47.41:907][ 24]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.47.41:907][ 24]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.47.41:907][ 24]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.47.44:365][184]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.47.44:386][185]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.47.44:387][185]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.47.44:387][185]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.47.44:387][185]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.47.44:544][191]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.47.44:567][192]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.47.44:589][193]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.47.44:612][194]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.47.45:180][221]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.47.45:180][221]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.47.45:180][221]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.47.52:517][710]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.05.29-14.47.52:538][712]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.47.52:538][712]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.48.02:012][239]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.48.02:037][239]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.48.02:037][239]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.48.02:037][239]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.48.02:037][239]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.48.02:050][239]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.05.29-14.48.02:183][242]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.48.02:203][243]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.48.02:244][245]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.48.02:245][245]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.48.02:503][255]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.48.02:525][256]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.48.02:872][273]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.48.02:872][273]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.48.02:872][273]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.48.09:425][699]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.48.09:486][700]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.48.09:486][700]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.48.09:486][700]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.48.09:486][700]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.48.09:597][704]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.48.09:598][704]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.48.09:639][706]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.48.09:639][706]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.48.10:190][734]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.48.10:190][734]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.48.10:190][734]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.48.18:202][266]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.48.18:208][266]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.48.18:208][266]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.48.18:208][266]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.48.18:209][266]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.48.18:211][266]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.05.29-14.48.18:364][271]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.48.18:387][272]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.48.18:430][274]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.48.18:430][274]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.48.18:693][284]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.48.18:693][284]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.48.19:041][300]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.48.19:042][300]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.48.19:042][300]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.48.21:606][467]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.48.21:611][467]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.48.21:611][467]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.48.21:611][467]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.48.21:611][467]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.48.21:786][474]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.48.21:786][474]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.48.21:808][475]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.48.21:830][476]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.48.22:362][501]MaterialEditorStats: Base pass shader without light map: 43 instructions
+[2018.05.29-14.48.22:362][501]MaterialEditorStats: Vertex shader: 109 instructions
+[2018.05.29-14.48.22:362][501]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.49.45:982][901]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.49.46:003][902]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.49.46:003][902]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.49.46:003][902]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.49.46:003][902]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.49.46:556][929]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.49.46:576][930]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.49.46:602][931]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.49.46:602][931]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.49.47:187][957]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.05.29-14.49.47:187][957]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.05.29-14.49.47:187][957]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.49.47:187][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.29-14.49.54:270][422]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.49.54:328][423]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.49.54:328][423]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.49.54:328][423]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.49.54:328][423]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.49.54:468][428]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.49.54:468][428]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.49.54:510][430]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.49.54:534][431]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.49.55:264][462]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.05.29-14.49.55:264][462]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.05.29-14.49.55:264][462]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.49.55:264][462]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.29-14.50.01:895][875]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.50.01:906][875]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.50.01:906][875]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.50.01:906][875]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.50.01:906][875]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.50.01:906][875]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPower_0, compiling. 
+[2018.05.29-14.50.02:072][880]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.50.02:096][881]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.50.02:122][882]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.50.02:146][883]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.50.02:421][892]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.50.02:448][893]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.50.02:764][907]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.05.29-14.50.02:764][907]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.05.29-14.50.02:764][907]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.50.02:764][907]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.29-14.50.04:908][ 43]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.50.04:930][ 44]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.50.04:930][ 44]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.50.04:930][ 44]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.50.04:930][ 44]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.50.05:086][ 50]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.50.05:108][ 51]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.50.05:153][ 53]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.50.05:153][ 53]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.50.05:718][ 77]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.05.29-14.50.05:718][ 77]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.05.29-14.50.05:718][ 77]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.50.05:718][ 77]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.29-14.50.06:159][105]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.50.06:181][106]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.50.06:182][106]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.50.06:182][106]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.50.06:182][106]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.50.06:352][113]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.29-14.50.06:353][113]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.05.29-14.50.06:394][115]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.29-14.50.06:394][115]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.50.06:951][141]MaterialEditorStats: Base pass shader without light map: 52 instructions
+[2018.05.29-14.50.06:951][141]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.05.29-14.50.06:951][141]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.29-14.50.06:951][141]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.29-14.50.12:941][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-14.50.15:054][670]LogMaterialEditor: Saving and Compiling material BeamMaterialParticle
+[2018.05.29-14.50.15:609][670]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.50.15:643][670]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.05.29-14.50.15:643][670]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.05.29-14.50.15:643][670]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.05.29-14.50.15:643][670]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.29-14.50.15:660][670]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.50.15:677][670]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-14.50.15:705][670]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BeamMaterialParticle, compiling. 
+[2018.05.29-14.50.16:151][670]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.05.29-14.50.16:151][670]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.29-14.50.16:151][670]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.29-14.50.16:151][670]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.05.29-14.50.16:151][670]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.29-14.50.16:151][670]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.05.29-14.50.16:151][670]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.05.29-14.50.16:153][670]TextureStreamingBuild: Display: Compiling optional shaders took 0.453 seconds.
+[2018.05.29-14.50.17:451][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/BeamMaterialParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamMaterialParticle.uasset" SILENT=true
+[2018.05.29-14.50.17:468][670]LogSavePackage: Save=15.25ms
+[2018.05.29-14.50.17:468][670]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/BeamMaterialParticleBC8990B5432E553D7FF2B594F54CA53B.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamMaterialParticle.uasset'
+[2018.05.29-14.50.17:473][670]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamMaterialParticle.uasset
+[2018.05.29-14.50.19:185][781]LogSlate: Window 'BeamMaterialParticle' being destroyed
+[2018.05.29-14.50.19:193][781]LogSlate: Window 'BeamMaterialParticle' being destroyed
+[2018.05.29-14.54.51:770][516]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.011
+[2018.05.29-14.54.51:772][516]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/VFX/BeamParticle] ([1] browsable assets)...
+[2018.05.29-14.54.51:776][516]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Asset/VFX/BeamParticle.BeamParticle]
+[2018.05.29-14.54.51:776][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/VFX/BeamParticle]
+[2018.05.29-14.54.51:776][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/BeamParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/BeamParticle_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2018.05.29-14.54.51:785][516]LogSavePackage: Save=6.73ms
+[2018.05.29-14.54.51:785][516]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/BeamParticle_Auto977A6D6E84A42F47F258CF18567BAEE0C.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/BeamParticle_Auto9.uasset'
+[2018.05.29-14.54.51:786][516]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/BeamParticle_Auto9.uasset
+[2018.05.29-14.54.51:786][516]LogFileHelpers: Auto-saving content packages took 0.014
+[2018.05.29-15.28.00:210][844]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.29-15.28.23:860][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.28.30:311][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.28.39:839][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.28.44:138][661]LogMaterial: Warning: Material /Game/Asset/VFX/BeamMaterialParticle.BeamMaterialParticle needed to have new flag set bUsedWithBeamTrails !
+[2018.05.29-15.28.44:141][661]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.29-15.28.44:164][662]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.05.29-15.28.44:164][662]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.29-15.29.29:318][360]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.010
+[2018.05.29-15.29.29:320][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Asset/VFX/BeamMaterialParticle] ([1] browsable assets)...
+[2018.05.29-15.29.29:320][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/VFX/BeamMaterialParticle]
+[2018.05.29-15.29.29:336][360]LogSavePackage: Save=7.86ms
+[2018.05.29-15.29.29:336][360]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/BeamMaterialParticle_Auto00CFD81FF4866B37396693CB4F91F6BF7.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/BeamMaterialParticle_Auto0.uasset'
+[2018.05.29-15.29.29:336][360]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/BeamMaterialParticle_Auto0.uasset
+[2018.05.29-15.29.29:337][360]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/VFX/BeamParticle] ([1] browsable assets)...
+[2018.05.29-15.29.29:342][360]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Asset/VFX/BeamParticle.BeamParticle]
+[2018.05.29-15.29.29:342][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/VFX/BeamParticle]
+[2018.05.29-15.29.29:342][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/BeamParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/BeamParticle_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2018.05.29-15.29.29:355][360]LogSavePackage: Save=12.08ms
+[2018.05.29-15.29.29:356][360]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/BeamParticle_Auto00C19AF3848E47A72B6DF639CDC16A87B.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/BeamParticle_Auto0.uasset'
+[2018.05.29-15.29.29:356][360]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/BeamParticle_Auto0.uasset
+[2018.05.29-15.29.29:356][360]LogFileHelpers: Auto-saving content packages took 0.037
+[2018.05.29-15.30.09:411][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.30.36:692][245]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.30.48:775][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.31.02:583][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.31.29:385][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.31.30:757][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.31.54:696][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.31.56:095][780]LogSlate: Window 'BeamParticle*' being destroyed
+[2018.05.29-15.32.22:145][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.32.23:504][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.32.43:351][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.32.45:363][960]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.32.55:216][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.33.13:317][740]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.29-15.33.14:489][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.33.29:284][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.35.02:197][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.35.10:778][803]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.35.15:002][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.35.42:309][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.35.43:714][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.36.14:732][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.36.17:493][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.36.31:753][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.36.37:083][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.36.49:357][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.37.16:169][940]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.37.23:252][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.37.41:935][595]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.37.42:207][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.38.05:264][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.39.21:512][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.39.23:064][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.39.33:490][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.39.53:574][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.40.00:023][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.40.26:799][313]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.40.29:057][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.40.50:759][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.40.51:661][983]LogSlate: Window 'BeamParticle*' being destroyed
+[2018.05.29-15.40.58:265][414]LogEditorViewport: Clicking on Actor (LMB): Emitter (BeamParticle)
+[2018.05.29-15.41.15:981][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.41.16:120][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/BeamParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamParticle.uasset" SILENT=true
+[2018.05.29-15.41.16:138][829]LogSavePackage: Save=15.90ms
+[2018.05.29-15.41.16:138][829]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/BeamParticle92265E634D020D83A9FDE19D0601CBF1.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamParticle.uasset'
+[2018.05.29-15.41.16:146][829]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamParticle.uasset
+[2018.05.29-15.41.18:811][ 55]LogSlate: Window 'BeamParticle' being destroyed
+[2018.05.29-15.41.18:816][ 55]LogSlate: Window 'BeamParticle' being destroyed
+[2018.05.29-15.41.18:817][ 55]LogCascade: Quitting Cascade. FXSystem=0x0000027859FF68E0
+[2018.05.29-15.42.06:017][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.42.08:139][380]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.29-15.42.19:185][505]LogEditorViewport: Clicking on Actor (LMB): Emitter (BeamParticle2)
+[2018.05.29-15.42.31:859][864]LogEditorViewport: Clicking on Actor (LMB): Emitter (BeamParticle)
+[2018.05.29-15.42.39:007][643]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.29-15.42.48:434][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.42.49:799][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.43.39:929][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-15.43.45:410][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-15.43.45:474][364]LogSlate: Window 'BeamParticle' being destroyed
+[2018.05.29-15.43.45:481][364]LogSlate: Window 'BeamParticle' being destroyed
+[2018.05.29-15.43.45:481][364]LogCascade: Quitting Cascade. FXSystem=0x00000277E3BE0860
+[2018.05.29-15.44.19:432][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.05.29-15.44.19:628][452]LogSavePackage: Save=187.12ms
+[2018.05.29-15.44.19:628][452]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_Auto1F4B6C3254C1933664F7158B49F1B9EE5.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto1.umap'
+[2018.05.29-15.44.19:629][452]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto1.umap
+[2018.05.29-15.44.19:631][452]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.211
+[2018.05.29-15.44.19:631][452]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.211
+[2018.05.29-16.10.06:755][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.29-16.52.55:158][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.29-16.53.00:434][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.29-17.28.24:571][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.29-18.26.53:357][243]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.29-18.26.53:690][244]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.29-18.26.54:191][245]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.29-18.26.54:691][246]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.29-18.26.55:191][247]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.29-18.26.55:691][248]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.29-18.26.56:191][249]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.29-18.26.56:692][250]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.30-02.44.54:500][251]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.30-02.44.56:775][252]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.30-02.44.56:778][252]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.30-02.44.57:346][253]LogHttp: Warning: 0000027832034280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.05.30-02.44.57:347][253]LogHttp: Warning: 0000027832034280: libcurl info message cache 0 (Connection 289 seems to be dead!)
+[2018.05.30-02.44.57:347][253]LogHttp: Warning: 0000027832034280: libcurl info message cache 1 (Closing connection 289)
+[2018.05.30-02.44.57:347][253]LogHttp: Warning: 0000027832034280: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.05.30-02.44.57:347][253]LogHttp: Warning: 0000027832034280: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.05.30-02.44.57:347][253]LogHttp: Warning: 0000027832034280: libcurl info message cache 4 (Closing connection 290)
+[2018.05.30-04.04.11:530][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-04.04.13:603][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.30-04.04.13:822][302]LogSavePackage: Save=196.07ms
+[2018.05.30-04.04.13:822][302]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1CE8865FC4EC48E0E9F4EE5845167C20E.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap'
+[2018.05.30-04.04.13:828][302]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap
+[2018.05.30-04.04.13:922][302]LogFileHelpers: Saving map 'LevelProto1' took 0.406
+[2018.05.30-04.04.13:925][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1_BuiltData" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset" SILENT=true
+[2018.05.30-04.04.14:225][302]LogSavePackage: Save=263.20ms
+[2018.05.30-04.04.14:225][302]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_BuiltDataBF9F54574F2A7544D03D979EDA6E97BD.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset'
+[2018.05.30-04.04.14:231][302]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1_BuiltData.uasset
+[2018.05.30-04.04.14:267][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/MainCharacter/Animation/MC_Backward" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Backward.uasset" SILENT=true
+[2018.05.30-04.04.14:283][302]LogSavePackage: Save=14.39ms
+[2018.05.30-04.04.14:283][302]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/MC_Backward591674BD433496EA87EFA388DDD7AA65.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Backward.uasset'
+[2018.05.30-04.04.14:289][302]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Backward.uasset
+[2018.05.30-04.04.14:293][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/VF_Simplex_LowFreq_32x32x32" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/VF_Simplex_LowFreq_32x32x32.uasset" SILENT=true
+[2018.05.30-04.04.14:300][302]LogSavePackage: Save=5.79ms
+[2018.05.30-04.04.14:300][302]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/VF_Simplex_LowFreq_32x32x32664C37774371BBE6A26BF585D8ECFAEB.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/VF_Simplex_LowFreq_32x32x32.uasset'
+[2018.05.30-04.04.14:306][302]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/VF_Simplex_LowFreq_32x32x32.uasset
+[2018.05.30-04.04.14:309][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/VF_Perlin_LowFreq_8x8x8" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/VF_Perlin_LowFreq_8x8x8.uasset" SILENT=true
+[2018.05.30-04.04.14:315][302]LogSavePackage: Save=4.63ms
+[2018.05.30-04.04.14:315][302]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/VF_Perlin_LowFreq_8x8x85E0BC45F44FC4068FBAF81916F1B8DED.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/VF_Perlin_LowFreq_8x8x8.uasset'
+[2018.05.30-04.04.14:321][302]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/VF_Perlin_LowFreq_8x8x8.uasset
+[2018.05.30-04.04.14:324][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/VF_Alligator_LowFreq_32x32x32" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/VF_Alligator_LowFreq_32x32x32.uasset" SILENT=true
+[2018.05.30-04.04.14:332][302]LogSavePackage: Save=5.45ms
+[2018.05.30-04.04.14:332][302]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/VF_Alligator_LowFreq_32x32x322620D7D94A495D940864029DB15E398B.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/VF_Alligator_LowFreq_32x32x32.uasset'
+[2018.05.30-04.04.14:336][302]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/VF_Alligator_LowFreq_32x32x32.uasset
+[2018.05.30-04.04.14:339][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/VF_Alligator_HighFreq_8x8x8" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/VF_Alligator_HighFreq_8x8x8.uasset" SILENT=true
+[2018.05.30-04.04.14:346][302]LogSavePackage: Save=5.30ms
+[2018.05.30-04.04.14:346][302]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/VF_Alligator_HighFreq_8x8x8935265074D11082E2367079556397FF1.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/VF_Alligator_HighFreq_8x8x8.uasset'
+[2018.05.30-04.04.14:350][302]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/VF_Alligator_HighFreq_8x8x8.uasset
+[2018.05.30-04.04.14:353][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/BeamMaterialParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamMaterialParticle.uasset" SILENT=true
+[2018.05.30-04.04.14:428][302]LogSavePackage: Save=68.27ms
+[2018.05.30-04.04.14:428][302]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/BeamMaterialParticleAE1ED6CF4C9CEE101D567CB692B60131.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamMaterialParticle.uasset'
+[2018.05.30-04.04.14:432][302]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamMaterialParticle.uasset
+[2018.05.30-04.06.37:932][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.30-04.07.07:118][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-04.07.39:243][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.07.39:173][595]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.30-09.08.18:560][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.08.41:266][158]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.08.46:899][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.09.29:108][348]LogMaterial: Warning: Material /Game/Asset/VFX/BeamMaterialParticle.BeamMaterialParticle needed to have new flag set bUsedWithParticleSprites !
+[2018.05.30-09.09.29:115][348]LogMaterial: Missing cached shader map for material BeamMaterialParticle, compiling. 
+[2018.05.30-09.09.29:138][348]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.05.30-09.09.29:138][348]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.05.30-09.09.29:138][348]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.30-09.09.29:138][348]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.30-09.09.32:144][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.09.48:410][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.10.11:183][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.10.44:959][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.11.01:825][367]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.11.05:501][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.11.41:957][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.11.51:300][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.12.18:471][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.12.18:560][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/RibbonParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/RibbonParticle.uasset" SILENT=true
+[2018.05.30-09.12.18:576][198]LogSavePackage: Save=13.26ms
+[2018.05.30-09.12.18:576][198]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/RibbonParticle4F246BC34ADDD36242D2948F82281C68.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/RibbonParticle.uasset'
+[2018.05.30-09.12.18:580][198]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/RibbonParticle.uasset
+[2018.05.30-09.12.22:620][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.12.52:138][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.12.52:180][728]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.011
+[2018.05.30-09.12.52:181][728]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Asset/VFX/BeamMaterialParticle] ([1] browsable assets)...
+[2018.05.30-09.12.52:181][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/VFX/BeamMaterialParticle]
+[2018.05.30-09.12.52:198][728]LogSavePackage: Save=6.63ms
+[2018.05.30-09.12.52:198][728]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/BeamMaterialParticle_Auto26CBE7BF7435608D906E2E18B733C1773.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/BeamMaterialParticle_Auto2.uasset'
+[2018.05.30-09.12.52:199][728]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/BeamMaterialParticle_Auto2.uasset
+[2018.05.30-09.12.52:199][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/VFX/RibbonParticle] ([1] browsable assets)...
+[2018.05.30-09.12.52:203][728]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Asset/VFX/RibbonParticle.RibbonParticle]
+[2018.05.30-09.12.52:203][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/VFX/RibbonParticle]
+[2018.05.30-09.12.52:203][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/RibbonParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/RibbonParticle_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.05.30-09.12.52:219][728]LogSavePackage: Save=10.07ms
+[2018.05.30-09.12.52:219][728]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/RibbonParticle_Auto26E1856BE438D94C34C5CDA83C22907E3.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/RibbonParticle_Auto2.uasset'
+[2018.05.30-09.12.52:220][728]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/RibbonParticle_Auto2.uasset
+[2018.05.30-09.12.52:220][728]LogFileHelpers: Auto-saving content packages took 0.039
+[2018.05.30-09.12.56:164][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.12.59:724][257]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.30-09.13.01:432][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.13.25:445][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.13.28:895][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.14.41:548][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.14.58:333][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.20.10:493][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.20.14:229][367]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.20.17:461][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.20.21:649][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.20.30:943][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.21.01:926][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.21.17:088][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.21.18:241][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.21.26:911][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.22.52:592][141]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.22.52:625][141]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.010
+[2018.05.30-09.22.52:626][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/VFX/RibbonParticle] ([1] browsable assets)...
+[2018.05.30-09.22.52:631][141]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Asset/VFX/RibbonParticle.RibbonParticle]
+[2018.05.30-09.22.52:631][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/VFX/RibbonParticle]
+[2018.05.30-09.22.52:631][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/RibbonParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/RibbonParticle_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.05.30-09.22.52:651][141]LogSavePackage: Save=13.33ms
+[2018.05.30-09.22.52:651][141]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/RibbonParticle_Auto30155C0B84A514756988AD6902BA6C4DD.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/RibbonParticle_Auto3.uasset'
+[2018.05.30-09.22.52:651][141]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/RibbonParticle_Auto3.uasset
+[2018.05.30-09.22.52:652][141]LogFileHelpers: Auto-saving content packages took 0.026
+[2018.05.30-09.23.01:473][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.23.04:207][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.23.05:633][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.23.56:131][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.24.05:457][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.24.34:670][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.25.02:807][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.25.11:256][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.25.18:861][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.25.22:678][412]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.30-09.25.23:504][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.26.08:382][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.26.16:941][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.26.40:577][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.27.31:336][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.27.33:631][198]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.30-09.27.35:689][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.28.28:626][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.29.20:823][965]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.29.26:729][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.29.35:758][  9]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.30-09.29.36:526][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.31.51:097][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.31.56:322][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.31.59:655][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.32.06:156][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.32.09:737][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.32.15:316][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.32.33:731][952]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.30-09.32.45:599][838]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.30-09.33.06:790][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.33.07:549][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.33.21:586][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.33.25:384][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.33.30:960][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.33.35:049][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.33.44:443][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.33.47:495][413]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.30-09.33.52:936][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.33.59:466][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.34.03:609][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.34.27:478][379]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.30-09.34.56:540][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.35.23:800][521]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.30-09.35.40:043][743]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.35.57:908][100]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.36.04:899][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.36.06:960][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.36.08:077][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.36.10:983][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.36.19:762][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.36.25:894][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.37.07:820][593]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.010
+[2018.05.30-09.37.07:821][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/VFX/RibbonParticle] ([1] browsable assets)...
+[2018.05.30-09.37.07:827][593]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Asset/VFX/RibbonParticle.RibbonParticle]
+[2018.05.30-09.37.07:827][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/VFX/RibbonParticle]
+[2018.05.30-09.37.07:827][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/RibbonParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/RibbonParticle_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.05.30-09.37.07:846][593]LogSavePackage: Save=12.84ms
+[2018.05.30-09.37.07:846][593]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/RibbonParticle_Auto456105C4142F8BA4DE0D386A6C47534A2.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/RibbonParticle_Auto4.uasset'
+[2018.05.30-09.37.07:847][593]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/RibbonParticle_Auto4.uasset
+[2018.05.30-09.37.07:847][593]LogFileHelpers: Auto-saving content packages took 0.026
+[2018.05.30-09.37.26:691][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.38.01:500][230]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.38.20:330][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.38.32:915][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.38.42:701][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.38.49:534][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.39.00:575][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.39.29:383][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.39.30:575][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.39.38:612][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.39.46:348][447]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.40.21:016][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.40.22:195][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.40.35:709][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.40.38:358][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.40.42:571][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.40.52:576][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.40.54:808][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.41.00:246][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.41.02:943][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.41.03:792][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.41.07:146][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.41.12:343][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.41.46:892][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.41.49:339][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.41.57:995][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.42.00:662][507]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.42.04:849][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.42.11:020][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.42.11:150][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/RibbonParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/RibbonParticle.uasset" SILENT=true
+[2018.05.30-09.42.11:171][296]LogSavePackage: Save=13.33ms
+[2018.05.30-09.42.11:171][296]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/RibbonParticle2B6E778A4FEC8C78E8464B90D37CD14B.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/RibbonParticle.uasset'
+[2018.05.30-09.42.11:175][296]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/RibbonParticle.uasset
+[2018.05.30-09.42.35:246][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.42.43:448][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.42.43:548][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/RibbonParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/RibbonParticle.uasset" SILENT=true
+[2018.05.30-09.42.43:561][795]LogSavePackage: Save=10.78ms
+[2018.05.30-09.42.43:561][795]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/RibbonParticleF6A77AB5487D9FA77F4E1C825C83E7DE.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/RibbonParticle.uasset'
+[2018.05.30-09.42.43:563][795]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/RibbonParticle.uasset
+[2018.05.30-09.42.45:416][929]LogSlate: Window 'RibbonParticle' being destroyed
+[2018.05.30-09.42.45:425][929]LogSlate: Window 'RibbonParticle' being destroyed
+[2018.05.30-09.42.45:425][929]LogCascade: Quitting Cascade. FXSystem=0x000002785A19AD40
+[2018.05.30-09.42.58:968][159]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.30-09.43.06:644][797]LogEditorViewport: Clicking on Actor (LMB): Emitter (RibbonParticle)
+[2018.05.30-09.43.28:873][934]LogEditorViewport: Clicking on Actor (LMB): Emitter (RibbonParticle)
+[2018.05.30-09.43.35:709][457]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.30-09.43.50:663][959]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.30-09.44.26:515][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-09.44.46:878][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.44.47:911][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-09.44.49:556][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.30-09.44.49:766][695]LogSavePackage: Save=192.18ms
+[2018.05.30-09.44.49:766][695]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1D9FDF6BE41447F02BC0EF4A6B7E05362.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap'
+[2018.05.30-09.44.49:768][695]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap
+[2018.05.30-09.44.49:797][695]LogFileHelpers: Saving map 'LevelProto1' took 1.880
+[2018.05.30-09.44.49:799][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/BeamMaterialParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamMaterialParticle.uasset" SILENT=true
+[2018.05.30-09.44.49:823][695]LogSavePackage: Save=6.18ms
+[2018.05.30-09.44.49:823][695]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/BeamMaterialParticleC6F3ED944515AC205882A3B31C4B005A.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamMaterialParticle.uasset'
+[2018.05.30-09.44.49:824][695]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamMaterialParticle.uasset
