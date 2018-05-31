@@ -12496,3 +12496,424 @@ LogInit: Object subsystem initialized
 [2018.05.30-09.44.49:823][695]LogSavePackage: Save=6.18ms
 [2018.05.30-09.44.49:823][695]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/BeamMaterialParticleC6F3ED944515AC205882A3B31C4B005A.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamMaterialParticle.uasset'
 [2018.05.30-09.44.49:824][695]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/BeamMaterialParticle.uasset
+[2018.05.30-10.54.50:553][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-13.49.28:877][496]LogHttp: Warning: 00000277ECF3B280: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.05.30-13.49.28:877][496]LogHttp: Warning: 00000277ECF3B280: libcurl info message cache 0 (Connection 600 seems to be dead!)
+[2018.05.30-13.49.28:877][496]LogHttp: Warning: 00000277ECF3B280: libcurl info message cache 1 (Closing connection 600)
+[2018.05.30-13.49.28:877][496]LogHttp: Warning: 00000277ECF3B280: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.05.30-13.49.28:877][496]LogHttp: Warning: 00000277ECF3B280: libcurl info message cache 3 (  Trying 34.235.211.110...)
+[2018.05.30-13.49.28:877][496]LogHttp: Warning: 00000277ECF3B280: libcurl info message cache 4 (connect to 34.235.211.110 port 443 failed: Timed out)
+[2018.05.30-13.49.28:877][496]LogHttp: Warning: 00000277ECF3B280: libcurl info message cache 5 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.05.30-13.49.28:877][496]LogHttp: Warning: 00000277ECF3B280: libcurl info message cache 6 (Closing connection 601)
+[2018.05.30-13.57.17:200][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-14.14.18:204][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-14.14.18:935][239]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.30-15.02.29:063][515]LogHttp: Warning: 0000027824DF5300: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.05.30-15.02.29:063][515]LogHttp: Warning: 0000027824DF5300: libcurl info message cache 0 (Connection 634 seems to be dead!)
+[2018.05.30-15.02.29:063][515]LogHttp: Warning: 0000027824DF5300: libcurl info message cache 1 (Closing connection 634)
+[2018.05.30-15.02.29:063][515]LogHttp: Warning: 0000027824DF5300: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.05.30-15.02.29:063][515]LogHttp: Warning: 0000027824DF5300: libcurl info message cache 3 (  Trying 52.207.107.232...)
+[2018.05.30-15.02.29:063][515]LogHttp: Warning: 0000027824DF5300: libcurl info message cache 4 (connect to 52.207.107.232 port 443 failed: Timed out)
+[2018.05.30-15.02.29:063][515]LogHttp: Warning: 0000027824DF5300: libcurl info message cache 5 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.05.30-15.02.29:063][515]LogHttp: Warning: 0000027824DF5300: libcurl info message cache 6 (Closing connection 635)
+[2018.05.30-15.04.50:137][935]LogHttp: Warning: 0000027824DF4B80: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.05.30-15.04.50:137][935]LogHttp: Warning: 0000027824DF4B80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.30-15.04.50:137][935]LogHttp: Warning: 0000027824DF4B80: libcurl info message cache 1 (  Trying 52.207.107.232...)
+[2018.05.30-15.04.50:137][935]LogHttp: Warning: 0000027824DF4B80: libcurl info message cache 2 (connect to 52.207.107.232 port 443 failed: Timed out)
+[2018.05.30-15.04.50:137][935]LogHttp: Warning: 0000027824DF4B80: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.05.30-15.04.50:137][935]LogHttp: Warning: 0000027824DF4B80: libcurl info message cache 4 (Closing connection 636)
+[2018.05.30-15.20.29:139][752]LogHttp: Warning: 0000027820BEA200: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.05.30-15.20.29:139][752]LogHttp: Warning: 0000027820BEA200: libcurl info message cache 0 (Connection 643 seems to be dead!)
+[2018.05.30-15.20.29:139][752]LogHttp: Warning: 0000027820BEA200: libcurl info message cache 1 (Closing connection 643)
+[2018.05.30-15.20.29:139][752]LogHttp: Warning: 0000027820BEA200: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.05.30-15.20.29:139][752]LogHttp: Warning: 0000027820BEA200: libcurl info message cache 3 (  Trying 52.207.107.232...)
+[2018.05.30-15.20.29:139][752]LogHttp: Warning: 0000027820BEA200: libcurl info message cache 4 (connect to 52.207.107.232 port 443 failed: Timed out)
+[2018.05.30-15.20.29:139][752]LogHttp: Warning: 0000027820BEA200: libcurl info message cache 5 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.05.30-15.20.29:139][752]LogHttp: Warning: 0000027820BEA200: libcurl info message cache 6 (Closing connection 644)
+[2018.05.30-15.35.28:041][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-19.24.43:004][945]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.30-19.24.43:337][946]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.30-19.24.43:837][947]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.30-19.24.44:337][948]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.30-19.24.44:838][949]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.30-19.24.45:338][950]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.31-03.49.20:850][951]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.31-03.49.20:850][951]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.05.31-05.57.28:520][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-05.57.33:388][590]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.05.31-05.57.33:406][590]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.05.31-05.57.33:423][590]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2018.05.31-05.57.33:550][590]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.05.31-05.57.34:170][590]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2018.05.31-05.57.34:186][590]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.31-05.57.49:606][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-05.57.49:707][432]LogSlate: Window 'MC_Slash_FinalBlow' being destroyed
+[2018.05.31-05.57.49:713][432]LogSlate: Window 'MC_Slash_FinalBlow' being destroyed
+[2018.05.31-05.57.50:838][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-05.57.50:979][498]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.05.31-05.57.51:049][498]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2018.05.31-05.57.51:511][498]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.31-05.57.54:072][612]LogSlate: Window 'MC_Slash_2' being destroyed
+[2018.05.31-05.57.54:081][612]LogSlate: Window 'MC_Slash_2' being destroyed
+[2018.05.31-05.57.58:590][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-05.57.58:793][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.05.31-05.57.58:858][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.Actor_2.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.05.31-05.57.59:267][873]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.31-05.58.01:194][977]LogSlate: Window 'MC_Run_WithSword' being destroyed
+[2018.05.31-05.58.01:200][977]LogSlate: Window 'MC_Run_WithSword' being destroyed
+[2018.05.31-05.58.02:065][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-05.58.02:247][ 39]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.Actor_3.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.05.31-05.58.02:311][ 39]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.Actor_3.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2018.05.31-05.58.02:739][ 39]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.31-05.58.05:240][179]LogSlate: Window 'MC_Slash_1' being destroyed
+[2018.05.31-05.58.05:248][179]LogSlate: Window 'MC_Slash_1' being destroyed
+[2018.05.31-05.58.06:668][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-05.58.06:857][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.Actor_4.DebugSkelMeshComponent_12) Already registered. Aborting.
+[2018.05.31-05.58.06:922][272]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.Actor_4.DebugSkelMeshComponent_12) - call TermArticulated first.
+[2018.05.31-05.58.07:339][272]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.31-05.58.17:293][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-06.05.39:995][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-07.37.31:109][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-07.40.49:693][523]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.037
+[2018.05.31-07.40.49:696][523]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/VFX/AnimTrailParticle] ([1] browsable assets)...
+[2018.05.31-07.40.49:702][523]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Asset/VFX/AnimTrailParticle.AnimTrailParticle]
+[2018.05.31-07.40.49:702][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/VFX/AnimTrailParticle]
+[2018.05.31-07.40.49:718][523]LogSavePackage: Save=13.74ms
+[2018.05.31-07.40.49:718][523]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticle_Auto56633E46548B6655A4FFCE39FB513A6B6.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/AnimTrailParticle_Auto5.uasset'
+[2018.05.31-07.40.49:719][523]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/AnimTrailParticle_Auto5.uasset
+[2018.05.31-07.40.49:719][523]LogFileHelpers: Auto-saving content packages took 0.024
+[2018.05.31-07.44.15:296][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/AnimTrailParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset" SILENT=true
+[2018.05.31-07.44.15:311][762]LogSavePackage: Save=13.41ms
+[2018.05.31-07.44.15:311][762]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticleE39C461A4FDDA6A2987EB7B95DA82F8F.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset'
+[2018.05.31-07.44.15:316][762]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset
+[2018.05.31-07.44.18:507][983]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-07.44.29:362][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-07.44.29:531][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/AnimTrailParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset" SILENT=true
+[2018.05.31-07.44.29:546][666]LogSavePackage: Save=9.42ms
+[2018.05.31-07.44.29:547][666]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticle7B137A8A4FEED2C4CCA914B49F8CD950.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset'
+[2018.05.31-07.44.29:548][666]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset
+[2018.05.31-07.44.50:169][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/MainCharacter/Animation/MC_Slash_3" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset" SILENT=true
+[2018.05.31-07.44.50:193][674]LogSavePackage: Save=16.53ms
+[2018.05.31-07.44.50:193][674]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/MC_Slash_3B34B5FA24349262EFD7020AC6E9D26D0.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset'
+[2018.05.31-07.44.50:194][674]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset
+[2018.05.31-07.44.54:458][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-07.45.09:516][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-07.48.56:692][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-07.49.01:179][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/AnimTrailParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset" SILENT=true
+[2018.05.31-07.49.01:192][480]LogSavePackage: Save=9.56ms
+[2018.05.31-07.49.01:192][480]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticleDEECFC3F4A9149BA356086BCA4FF73B6.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset'
+[2018.05.31-07.49.01:193][480]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset
+[2018.05.31-07.49.04:677][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-07.49.58:569][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-07.50.18:283][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-07.50.18:386][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/AnimTrailParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset" SILENT=true
+[2018.05.31-07.50.18:403][563]LogSavePackage: Save=9.48ms
+[2018.05.31-07.50.18:403][563]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticle87324FE04B01026AF01A66857A49C648.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset'
+[2018.05.31-07.50.18:404][563]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset
+[2018.05.31-07.50.33:793][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-07.50.57:969][829]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.010
+[2018.05.31-07.50.57:971][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Asset/MainCharacter/Animation/MC_Slash_3] ([1] browsable assets)...
+[2018.05.31-07.50.57:971][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/MainCharacter/Animation/MC_Slash_3]
+[2018.05.31-07.50.57:984][829]LogSavePackage: Save=6.66ms
+[2018.05.31-07.50.57:984][829]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/MC_Slash_3_Auto610CD58DD405287D5748ABEB92A2580F9.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/MainCharacter/Animation/MC_Slash_3_Auto6.uasset'
+[2018.05.31-07.50.57:985][829]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/MainCharacter/Animation/MC_Slash_3_Auto6.uasset
+[2018.05.31-07.50.57:985][829]LogFileHelpers: Auto-saving content packages took 0.015
+[2018.05.31-08.24.40:325][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-08.24.43:857][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/AnimTrailParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset" SILENT=true
+[2018.05.31-08.24.43:875][648]LogSavePackage: Save=9.16ms
+[2018.05.31-08.24.43:875][648]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticle1B88A53A40F5E89E26BA53A73D02D620.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset'
+[2018.05.31-08.24.43:876][648]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset
+[2018.05.31-08.25.08:263][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-08.25.39:719][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-08.25.45:741][615]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.31-08.25.48:326][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-08.25.51:785][ 13]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.31-08.25.53:232][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-08.25.53:358][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/AnimTrailParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset" SILENT=true
+[2018.05.31-08.25.53:371][114]LogSavePackage: Save=10.52ms
+[2018.05.31-08.25.53:371][114]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticle5749577F4722658F1B31CA89F58B4881.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset'
+[2018.05.31-08.25.53:372][114]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset
+[2018.05.31-08.25.58:220][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-08.26.12:130][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.09.25:724][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.09.54:666][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.12.42:578][628]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.13.05:013][135]LogCascade: Non-seeded module ParticleModuleColorOverLife
+[2018.05.31-09.13.05:035][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.13.06:549][232]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.16.18:106][423]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.025
+[2018.05.31-09.16.18:108][423]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/VFX/AnimTrailParticle] ([1] browsable assets)...
+[2018.05.31-09.16.18:114][423]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Asset/VFX/AnimTrailParticle.AnimTrailParticle]
+[2018.05.31-09.16.18:114][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/VFX/AnimTrailParticle]
+[2018.05.31-09.16.18:134][423]LogSavePackage: Save=11.94ms
+[2018.05.31-09.16.18:134][423]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticle_Auto795A72E6B46E3232E8262F9A1E5E8B99A.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/AnimTrailParticle_Auto7.uasset'
+[2018.05.31-09.16.18:134][423]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/AnimTrailParticle_Auto7.uasset
+[2018.05.31-09.16.18:134][423]LogFileHelpers: Auto-saving content packages took 0.028
+[2018.05.31-09.20.13:494][158]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.20.15:362][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.20.15:456][298]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.20.20:777][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.20.25:145][931]LogSlate: Window 'Color Picker' being destroyed
+[2018.05.31-09.20.26:304][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.20.33:387][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.20.42:116][129]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.20.46:448][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.20.59:996][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.21.16:440][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.21.30:654][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.21.43:285][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.21.49:305][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.26.19:030][802]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.011
+[2018.05.31-09.26.19:032][802]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/VFX/AnimTrailParticle] ([1] browsable assets)...
+[2018.05.31-09.26.19:036][802]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Asset/VFX/AnimTrailParticle.AnimTrailParticle]
+[2018.05.31-09.26.19:036][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/VFX/AnimTrailParticle]
+[2018.05.31-09.26.19:094][802]LogSavePackage: Save=49.10ms
+[2018.05.31-09.26.19:094][802]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticle_Auto8A46105224184F827A9C12CBF7C4447CD.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/AnimTrailParticle_Auto8.uasset'
+[2018.05.31-09.26.19:094][802]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/Asset/VFX/AnimTrailParticle_Auto8.uasset
+[2018.05.31-09.26.19:094][802]LogFileHelpers: Auto-saving content packages took 0.063
+[2018.05.31-09.29.04:455][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.29.38:549][532]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.29.38:736][541]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.29.45:038][952]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.29.48:562][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.29.56:230][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.30.18:693][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.30.18:810][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/AnimTrailParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset" SILENT=true
+[2018.05.31-09.30.18:826][486]LogSavePackage: Save=12.65ms
+[2018.05.31-09.30.18:826][486]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticleC89B05DB4E798E8E3128ACBB08EE7EF2.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset'
+[2018.05.31-09.30.18:862][486]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset
+[2018.05.31-09.30.33:501][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.30.39:793][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.30.54:217][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.30.57:618][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.31.01:575][352]LogMaterial: Warning: Material /Game/Asset/VFX/TestParticaleMaterial.TestParticaleMaterial needed to have new flag set bUsedWithBeamTrails !
+[2018.05.31-09.31.01:578][352]LogMaterial: Missing cached shader map for material TestParticaleMaterial, compiling. 
+[2018.05.31-09.31.01:607][353]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.05.31-09.31.01:607][353]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.05.31-09.31.01:607][353]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.05.31-09.31.01:607][353]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.05.31-09.31.06:414][618]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.31.12:549][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.31.12:840][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.31.29:115][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.31.32:278][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.31.40:845][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.31.56:572][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.31.56:714][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/AnimTrailParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset" SILENT=true
+[2018.05.31-09.31.56:734][ 64]LogSavePackage: Save=12.55ms
+[2018.05.31-09.31.56:734][ 64]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticle194C0CB24CAA22F73B76EEBC5521C1EE.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset'
+[2018.05.31-09.31.56:735][ 64]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset
+[2018.05.31-09.32.06:725][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.32.11:721][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.32.25:203][868]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.32.32:374][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/AnimTrailParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset" SILENT=true
+[2018.05.31-09.32.32:390][383]LogSavePackage: Save=13.11ms
+[2018.05.31-09.32.32:391][383]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticle503A2E9B49D629ADB0DB039C579435D3.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset'
+[2018.05.31-09.32.32:392][383]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset
+[2018.05.31-09.32.48:120][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.33.11:768][146]LogCascade: Non-seeded module ParticleModuleTrailSource
+[2018.05.31-09.33.11:790][146]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.33.30:633][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.33.35:296][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/AnimTrailParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset" SILENT=true
+[2018.05.31-09.33.35:312][839]LogSavePackage: Save=12.76ms
+[2018.05.31-09.33.35:312][839]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticle72DCA0144BF3A314BDB500A84612FAED.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset'
+[2018.05.31-09.33.35:313][839]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset
+[2018.05.31-09.33.45:835][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/AnimTrailParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset" SILENT=true
+[2018.05.31-09.33.45:850][552]LogSavePackage: Save=12.18ms
+[2018.05.31-09.33.45:850][552]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticle5546933946A96D404C38CD9E8D6F6227.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset'
+[2018.05.31-09.33.45:851][552]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset
+[2018.05.31-09.33.49:824][821]LogCascade: Non-seeded module ParticleModuleLocationBoneSocket
+[2018.05.31-09.33.54:745][182]LogCascade: Non-seeded module ParticleModuleTypeDataRibbon
+[2018.05.31-09.34.02:057][722]LogCascade: Non-seeded module ParticleModuleTypeDataRibbon
+[2018.05.31-09.34.02:077][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.34.04:950][925]LogCascade: Non-seeded module ParticleModuleTypeDataRibbon
+[2018.05.31-09.34.04:972][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.34.06:181][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.34.14:434][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.34.28:753][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.34.34:443][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.34.47:517][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.35.05:574][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.35.18:078][840]LogCascade: Non-seeded module ParticleModuleTypeDataAnimTrail
+[2018.05.31-09.35.18:100][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.35.19:717][949]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.35.27:657][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.35.44:534][373]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.44:972][397]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.45:397][420]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.45:843][444]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.46:261][464]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.46:694][488]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.47:135][513]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.47:567][538]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.47:990][559]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.48:442][585]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.48:874][610]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.49:309][633]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.49:741][657]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.50:173][680]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.50:600][704]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.51:032][729]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.35.51:475][755]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3'
+[2018.05.31-09.36.06:335][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.36.10:700][868]LogCascade: Non-seeded module ParticleModuleTypeDataRibbon
+[2018.05.31-09.36.10:722][868]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.36.12:553][991]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.36.14:077][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.36.19:046][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.36.20:511][444]LogSlate: Window 'Message' being destroyed
+[2018.05.31-09.36.21:965][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/AnimTrailParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset" SILENT=true
+[2018.05.31-09.36.21:978][543]LogSavePackage: Save=10.11ms
+[2018.05.31-09.36.21:978][543]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticleBA2B5EC4455D738EDA26BCACAD84ED2C.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset'
+[2018.05.31-09.36.21:980][543]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset
+[2018.05.31-09.36.27:729][861]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'RibbonParticle'. Spawning suppressed.
+[2018.05.31-09.36.28:358][896]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'RibbonParticle'. Spawning suppressed.
+[2018.05.31-09.36.29:229][944]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'RibbonParticle'. Spawning suppressed.
+[2018.05.31-09.36.30:788][ 30]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'RibbonParticle'. Spawning suppressed.
+[2018.05.31-09.36.31:229][ 55]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'RibbonParticle'. Spawning suppressed.
+[2018.05.31-09.36.31:667][ 79]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'RibbonParticle'. Spawning suppressed.
+[2018.05.31-09.36.32:089][ 98]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'RibbonParticle'. Spawning suppressed.
+[2018.05.31-09.36.32:530][123]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'RibbonParticle'. Spawning suppressed.
+[2018.05.31-09.36.32:958][145]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'RibbonParticle'. Spawning suppressed.
+[2018.05.31-09.36.33:404][170]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'RibbonParticle'. Spawning suppressed.
+[2018.05.31-09.36.33:841][194]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'RibbonParticle'. Spawning suppressed.
+[2018.05.31-09.36.34:263][217]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'RibbonParticle'. Spawning suppressed.
+[2018.05.31-09.36.34:699][241]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'RibbonParticle'. Spawning suppressed.
+[2018.05.31-09.36.51:937][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.36.53:263][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/VFX/AnimTrailParticle" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset" SILENT=true
+[2018.05.31-09.36.53:277][528]LogSavePackage: Save=11.11ms
+[2018.05.31-09.36.53:278][528]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/AnimTrailParticle430689844E7C7C04567889AD50D6EFCA.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset'
+[2018.05.31-09.36.53:279][528]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/VFX/AnimTrailParticle.uasset
+[2018.05.31-09.36.56:635][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/MainCharacter/Animation/MC_Slash_3" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset" SILENT=true
+[2018.05.31-09.36.56:643][717]AssetCheck: Warning: MC_Slash_3 Particle system /Game/Asset/VFX/RibbonParticle.RibbonParticle used in anim notify for asset /Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3 is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify).
+[2018.05.31-09.36.56:667][717]LogSavePackage: Save=24.95ms
+[2018.05.31-09.36.56:667][717]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/MC_Slash_3E2040F764A8619805C3212953197B930.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset'
+[2018.05.31-09.36.56:669][717]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset
+[2018.05.31-09.37.05:106][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/MainCharacter/Animation/MC_Slash_3" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset" SILENT=true
+[2018.05.31-09.37.05:115][196]LogSavePackage: Save=5.96ms
+[2018.05.31-09.37.05:115][196]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/MC_Slash_3B951781344665EA864877D8A67139917.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset'
+[2018.05.31-09.37.05:116][196]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset
+[2018.05.31-09.37.06:817][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/MainCharacter/Animation/MC_Slash_3" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset" SILENT=true
+[2018.05.31-09.37.06:826][296]LogSavePackage: Save=5.95ms
+[2018.05.31-09.37.06:826][296]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/MC_Slash_3964582DB43AAFFEE020287B0EFB7FDBE.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset'
+[2018.05.31-09.37.06:826][296]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset
+[2018.05.31-09.37.13:652][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.37.35:115][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.37.35:497][856]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.35:936][874]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.36:371][898]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.36:795][921]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.37:229][945]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.37:663][969]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.38:111][994]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.38:538][ 18]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.38:977][ 41]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.39:405][ 63]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.39:748][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.37.52:063][783]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.52:497][809]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.52:941][836]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.53:369][860]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.53:799][880]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.54:233][906]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.54:673][933]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.55:104][959]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.55:530][985]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.55:973][ 12]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.56:404][ 38]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.56:845][ 65]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.57:274][ 91]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.57:708][117]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.58:141][143]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.58:575][169]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.58:998][195]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.59:435][217]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.37.59:867][241]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.00:300][266]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.00:736][291]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.01:168][316]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.01:411][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.38.37:239][350]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.37:666][374]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.38:094][394]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.38:537][415]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.38:967][439]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.39:399][463]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.39:826][487]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.40:267][512]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.40:693][536]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.41:136][561]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.41:573][586]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.41:998][609]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.42:435][633]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.42:875][657]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.43:309][681]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.43:725][704]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.44:172][729]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.44:591][752]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.45:026][776]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.45:478][797]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.45:906][816]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.46:342][840]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.46:758][863]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.47:191][887]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.47:633][912]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.48:061][933]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.48:504][958]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.48:923][981]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.49:166][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.38.58:516][522]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.58:940][548]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.59:386][575]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.38.59:813][601]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.00:244][621]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.00:687][642]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.01:116][667]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.01:540][692]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.01:989][718]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.02:419][741]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.02:847][765]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.03:287][790]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.03:718][814]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.04:147][838]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.04:572][862]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.05:012][888]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.05:454][912]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.05:879][935]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.06:321][959]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.06:741][981]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem_GPU'. Spawning suppressed.
+[2018.05.31-09.39.18:978][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/MainCharacter/Animation/MC_Slash_3" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset" SILENT=true
+[2018.05.31-09.39.18:982][639]AssetCheck: Warning: MC_Slash_3 Particle system /Game/Asset/VFX/TestParticleSystem_GPU.TestParticleSystem_GPU used in anim notify for asset /Game/Asset/MainCharacter/Animation/MC_Slash_3.MC_Slash_3 is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify).
+[2018.05.31-09.39.19:009][639]LogSavePackage: Save=27.83ms
+[2018.05.31-09.39.19:009][639]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/MC_Slash_35BE3DF914EAB7598AAB629A10A11FC9C.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset'
+[2018.05.31-09.39.19:011][639]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/Asset/MainCharacter/Animation/MC_Slash_3.uasset
+[2018.05.31-09.39.41:132][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.39.50:082][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.39.55:419][547]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem'. Spawning suppressed.
+[2018.05.31-09.39.55:864][571]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem'. Spawning suppressed.
+[2018.05.31-09.39.56:291][588]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem'. Spawning suppressed.
+[2018.05.31-09.39.56:722][611]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem'. Spawning suppressed.
+[2018.05.31-09.39.57:147][634]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem'. Spawning suppressed.
+[2018.05.31-09.39.57:591][658]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem'. Spawning suppressed.
+[2018.05.31-09.39.58:015][680]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem'. Spawning suppressed.
+[2018.05.31-09.39.58:459][704]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem'. Spawning suppressed.
+[2018.05.31-09.39.58:892][724]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem'. Spawning suppressed.
+[2018.05.31-09.39.59:319][747]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem'. Spawning suppressed.
+[2018.05.31-09.39.59:760][771]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem'. Spawning suppressed.
+[2018.05.31-09.40.00:192][794]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem'. Spawning suppressed.
+[2018.05.31-09.40.00:608][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.40.00:627][817]LogParticles: Warning: Particle Notify: Anim 'MC_Slash_3' tried to spawn infinitely looping particle system 'TestParticleSystem'. Spawning suppressed.
+[2018.05.31-09.40.46:097][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.41.10:254][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.41.22:891][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.41.26:599][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.41.33:524][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.41.36:078][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.31-09.41.38:919][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.41.50:420][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.41.57:117][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.42.30:772][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.42.39:614][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.31-09.42.39:732][252]LogSlate: Window 'AnimTrailParticle' being destroyed
+[2018.05.31-09.42.39:739][252]LogSlate: Window 'AnimTrailParticle' being destroyed
+[2018.05.31-09.42.40:066][252]LogCascade: Quitting Cascade. FXSystem=0x0000027820594680
