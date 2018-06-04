@@ -20255,3 +20255,178 @@ LogInit: Object subsystem initialized
 [2018.06.02-17.37.36:808][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.06.02-17.37.36:892][347]LogSlate: Window 'Message Log' being destroyed
 [2018.06.02-17.37.36:905][347]LogSlate: Window 'Message Log' being destroyed
+[2018.06.02-17.39.21:637][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.02-18.15.49:653][498]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.15.49:988][499]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.15.50:488][500]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.15.50:988][501]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.15.51:489][502]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.15.51:989][503]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.15.52:489][504]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.15.52:989][505]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.15.53:489][506]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.17.29:500][507]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.17.30:000][508]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.17.30:500][509]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.17.31:000][510]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.17.31:501][511]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.17.41:577][538]LogHttp: Warning: 00000277CC9A2080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.02-18.17.41:577][538]LogHttp: Warning: 00000277CC9A2080: libcurl info message cache 0 (Connection 1871 seems to be dead!)
+[2018.06.02-18.17.41:578][538]LogHttp: Warning: 00000277CC9A2080: libcurl info message cache 1 (Closing connection 1871)
+[2018.06.02-18.17.41:578][538]LogHttp: Warning: 00000277CC9A2080: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.02-18.17.41:578][538]LogHttp: Warning: 00000277CC9A2080: libcurl info message cache 3 (Closing connection 1872)
+[2018.06.02-18.17.56:286][582]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.17.56:620][583]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.17.57:120][584]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.17.57:620][585]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.17.58:120][586]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.17.58:620][587]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.17.59:121][588]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.17.59:621][589]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.02-18.18.00:121][590]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-01.38.30:524][591]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-01.38.32:686][591]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-01.38.33:318][593]LogHttp: Warning: 00000277CC9A3E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.03-01.38.33:318][593]LogHttp: Warning: 00000277CC9A3E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.03-01.38.33:318][593]LogHttp: Warning: 00000277CC9A3E80: libcurl info message cache 1 (Closing connection 1873)
+[2018.06.03-11.54.19:549][430]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-11.54.19:906][431]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-12.39.09:230][262]Cmd: EDIT COPY
+[2018.06.03-12.39.09:474][283]Cmd: EDIT PASTE
+[2018.06.03-12.39.26:029][957]Cmd: TRANSACTION UNDO
+[2018.06.03-12.39.26:029][957]LogEditorTransaction: Undo Move Actors
+[2018.06.03-12.39.26:055][957]LogActorComponent: ~FComponentReregisterContext: (/Game/LevelProto2.LevelProto2:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2018.06.03-12.39.26:068][957]LogActorComponent: ~FComponentReregisterContext: (/Game/LevelProto2.LevelProto2:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2018.06.03-12.39.26:070][957]LogActorComponent: ~FComponentReregisterContext: (/Game/LevelProto2.LevelProto2:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2018.06.03-12.40.05:896][  5]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.03-12.40.41:236][770]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.03-12.40.41:293][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto2" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.03-12.40.41:629][770]LogSavePackage: Save=311.04ms
+[2018.06.03-12.40.41:629][770]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto2_Auto19C69E4764FE6297AFE118085B5225605.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto1.umap'
+[2018.06.03-12.40.41:630][770]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto1.umap
+[2018.06.03-12.40.41:634][770]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto2' took 0.378
+[2018.06.03-12.40.41:635][770]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.378
+[2018.06.03-12.50.41:685][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.03-12.50.41:723][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto2" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.03-12.50.42:036][ 10]LogSavePackage: Save=298.91ms
+[2018.06.03-12.50.42:036][ 10]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto2_Auto2FE628D72432B525BF30298A1150ECEA7.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto2.umap'
+[2018.06.03-12.50.42:037][ 10]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto2.umap
+[2018.06.03-12.50.42:039][ 10]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto2' took 0.340
+[2018.06.03-12.50.42:039][ 10]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.340
+[2018.06.03-13.00.42:685][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto2" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.03-13.00.43:005][804]LogSavePackage: Save=306.49ms
+[2018.06.03-13.00.43:005][804]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto2_Auto3BC631F3C466D99CEBDCCF6A4DF167724.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto3.umap'
+[2018.06.03-13.00.43:005][804]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto3.umap
+[2018.06.03-13.00.43:008][804]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto2' took 0.344
+[2018.06.03-13.00.43:008][804]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.344
+[2018.06.03-13.38.25:066][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto2" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.03-13.38.25:408][340]LogSavePackage: Save=320.05ms
+[2018.06.03-13.38.25:408][340]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto2_Auto4CAC4D641409B39CA6BB1B88008769B9D.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto4.umap'
+[2018.06.03-13.38.25:409][340]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto4.umap
+[2018.06.03-13.38.25:415][340]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto2' took 0.382
+[2018.06.03-13.38.25:415][340]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.382
+[2018.06.03-13.40.27:799][708]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.03-13.44.43:796][420]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.03-13.44.52:706][413]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.03-13.44.52:819][422]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2018.06.03-13.44.53:056][430]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2018.06.03-13.44.53:119][433]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.03-13.44.53:382][456]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.03-13.45.55:739][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.03-13.48.25:861][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto2" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.03-13.48.26:173][ 67]LogSavePackage: Save=300.11ms
+[2018.06.03-13.48.26:173][ 67]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto2_Auto53C4D75ED47FB65A3C8B079861C921C20.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto5.umap'
+[2018.06.03-13.48.26:203][ 67]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto5.umap
+[2018.06.03-13.48.26:206][ 67]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto2' took 0.368
+[2018.06.03-13.48.26:206][ 67]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.368
+[2018.06.03-19.45.44:154][381]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-19.45.44:488][382]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-19.45.44:988][383]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-19.45.45:488][384]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-19.45.45:988][385]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-19.45.46:488][386]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-19.45.46:988][387]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-19.45.47:488][388]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-19.45.47:988][389]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.03-19.45.48:489][390]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.04-05.01.17:500][391]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.04-05.01.18:026][392]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.04-05.01.18:501][393]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.04-05.01.19:866][394]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.04-05.01.19:866][394]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.06.04-05.01.29:809][420]LogHttp: Warning: 000002785B6EDA80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.04-05.01.29:810][420]LogHttp: Warning: 000002785B6EDA80: libcurl info message cache 0 (Connection 2304 seems to be dead!)
+[2018.06.04-05.01.29:810][420]LogHttp: Warning: 000002785B6EDA80: libcurl info message cache 1 (Closing connection 2304)
+[2018.06.04-05.01.29:810][420]LogHttp: Warning: 000002785B6EDA80: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.04-05.01.29:810][420]LogHttp: Warning: 000002785B6EDA80: libcurl info message cache 3 (Closing connection 2305)
+[2018.06.04-05.08.42:561][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.04-05.08.42:656][830]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.04-05.08.42:699][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.04-05.08.42:702][830]PIE: New page: PIE session: LevelProto2 (Jun 4, 2018, 7:08:42 PM)
+[2018.06.04-05.08.42:704][830]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelProto2
+[2018.06.04-05.08.42:957][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.252181s)
+[2018.06.04-05.08.42:961][830]LogAIModule: Creating AISystem for world LevelProto2
+[2018.06.04-05.08.42:964][830]LogPlayLevel: PIE: World Init took: (0.006951s)
+[2018.06.04-05.08.42:964][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelProto2.LevelProto2 to /Game/UEDPIE_0_LevelProto2.LevelProto2 (0.259845s)
+[2018.06.04-05.08.43:053][830]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.04-05.08.43:071][830]LogInit: FAudioDevice initialized.
+[2018.06.04-05.08.43:115][830]LogLoad: Game class is 'RoboSlashGameMode_C'
+[2018.06.04-05.08.43:128][830]LogWorld: Bringing World /Game/UEDPIE_0_LevelProto2.LevelProto2 up for play (max tick rate 0) at 2018.06.04-12.08.43
+[2018.06.04-05.08.43:131][830]LogWorld: Bringing up level for play took: 0.007978
+[2018.06.04-05.08.43:161][830]PIE: Play in editor start time for /Game/UEDPIE_0_LevelProto2 0.081
+[2018.06.04-05.10.08:791][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.04-05.10.16:047][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.04-05.10.16:122][ 54]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.04-05.10.16:138][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.04-05.10.16:138][ 54]PIE: New page: PIE session: LevelProto2 (Jun 4, 2018, 7:10:16 PM)
+[2018.06.04-05.10.16:138][ 54]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LevelProto2
+[2018.06.04-05.10.16:166][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028024s)
+[2018.06.04-05.10.16:167][ 54]LogAIModule: Creating AISystem for world LevelProto2
+[2018.06.04-05.10.16:168][ 54]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2018.06.04-05.10.16:168][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelProto2.LevelProto2 to /Game/UEDPIE_0_LevelProto2.LevelProto2 (0.029423s)
+[2018.06.04-05.10.16:199][ 54]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.04-05.10.16:211][ 54]LogInit: FAudioDevice initialized.
+[2018.06.04-05.10.16:248][ 54]LogLoad: Game class is 'RoboSlashGameMode_C'
+[2018.06.04-05.10.16:252][ 54]LogWorld: Bringing World /Game/UEDPIE_0_LevelProto2.LevelProto2 up for play (max tick rate 0) at 2018.06.04-12.10.16
+[2018.06.04-05.10.16:252][ 54]LogWorld: Bringing up level for play took: 0.003879
+[2018.06.04-05.10.16:254][ 54]PIE: Play in editor start time for /Game/UEDPIE_0_LevelProto2 -0.827
+[2018.06.04-05.11.53:293][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto2" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.04-05.11.53:658][224]LogSavePackage: Save=314.95ms
+[2018.06.04-05.11.53:658][224]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto2_Auto6ED40FD9A4B3DC46BB699D19E2250AC3A.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto6.umap'
+[2018.06.04-05.11.53:659][224]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto2_Auto6.umap
+[2018.06.04-05.11.53:661][224]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto2' took 0.390
+[2018.06.04-05.11.53:661][224]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.390
+[2018.06.04-05.15.35:011][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.04-05.16.33:909][498]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.04-05.16.35:007][616]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.04-05.16.35:596][680]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.04-05.16.36:301][754]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.04-05.16.38:996][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.04-05.17.12:413][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.04-05.17.13:587][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.04-05.17.16:014][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto2" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.04-05.17.16:344][114]LogSavePackage: Save=298.31ms
+[2018.06.04-05.17.16:344][114]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto2217242174D9E407298D1738FED999637.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto2.umap'
+[2018.06.04-05.17.16:348][114]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto2.umap
+[2018.06.04-05.17.16:429][114]LogFileHelpers: Saving map 'LevelProto2' took 2.836
+[2018.06.04-05.17.24:922][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.04-05.17.30:180][ 45]LogAIModule: Creating AISystem for world LevelProto1
+[2018.06.04-05.17.30:224][ 45]Cmd: MAP LOAD FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Content/LevelProto1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.04-05.17.30:224][ 45]LightingResults: New page: Lighting Build
+[2018.06.04-05.17.30:225][ 45]LoadErrors: New page: Loading map: LevelProto1.umap
+[2018.06.04-05.17.30:230][ 45]MapCheck: New page: Map Check
+[2018.06.04-05.17.30:230][ 45]LightingResults: New page: Lighting Build
+[2018.06.04-05.17.30:447][ 45]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.04-05.17.30:493][ 45]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.04-05.17.30:577][ 45]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.421ms to complete.
+[2018.06.04-05.17.30:577][ 45]LogFileHelpers: Loading map 'LevelProto1' took 0.356
+[2018.06.04-05.17.43:532][441]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.04-05.18.02:490][912]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.04-05.18.16:347][406]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.06.04-05.18.34:368][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.04-05.27.30:194][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelProto1" FILE="D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.04-05.27.30:421][378]LogSavePackage: Save=215.03ms
+[2018.06.04-05.27.30:421][378]LogSavePackage: Moving 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/LevelProto1_Auto7BD8662D14CA160CCEA55439FAFC740D2.tmp' to 'D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto7.umap'
+[2018.06.04-05.27.30:422][378]LogSavePackage: Display: Finished SavePackage D:/Michael/Project/Game/ProjectOne/Prototype1/Saved/Autosaves/Game/LevelProto1_Auto7.umap
+[2018.06.04-05.27.30:424][378]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelProto1' took 0.253
+[2018.06.04-05.27.30:424][378]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.253
