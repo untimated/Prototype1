@@ -1,3 +1,2 @@
-D:\Kerjaan Adi\Coding Adi\Unreal Engine 4\Prototype1\Source\Prototype1\Prototype1.Build.cs
 D:\Kerjaan Adi\Coding Adi\Unreal Engine 4\Prototype1\Source\Prototype1.Target.cs
 D:\Kerjaan Adi\Coding Adi\Unreal Engine 4\Prototype1\Source\Prototype1Editor.Target.cs

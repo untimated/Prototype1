@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25807.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{FE019CAD-5C5D-4A6A-8920-D2F44C262187}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE4", "Intermediate\ProjectFiles\UE4.vcxproj", "{FC32DFF3-E30F-4304-813D-152A37548D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		BuiltWithUnrealBuildTool|x86 = BuiltWithUnrealBuildTool|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC32DFF3-E30F-4304-813D-152A37548D05}.BuiltWithUnrealBuildTool|x86.ActiveCfg = BuiltWithUnrealBuildTool|Win32
+		{FC32DFF3-E30F-4304-813D-152A37548D05}.BuiltWithUnrealBuildTool|x86.Build.0 = BuiltWithUnrealBuildTool|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FC32DFF3-E30F-4304-813D-152A37548D05} = {FE019CAD-5C5D-4A6A-8920-D2F44C262187}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DB5E9A2-F606-4939-849D-EBA0E7003900}
+	EndGlobalSection
+EndGlobal
